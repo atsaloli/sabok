@@ -10,7 +10,11 @@ The guide also defines what system administration is, what the
 boundaries of the field are, and what other fields are adjacent to
 system administration.
 
+Some training resources are recommended.
+
+
 Part I. Normative Literature
+----------------------------
 
 List of normative literature (describing norms or standards)
 in the field of (Unix/Linux) system administration:
@@ -72,6 +76,8 @@ Nicole F. Velasquez describes how a sysadmin interfaces between business and tec
 Comments and pull requests welcome! 
 
 
+Part III. Training resources.
+-----------------------------
 
 TRAINING RESOURCES FOR JUNIORS
 
