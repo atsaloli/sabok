@@ -2,32 +2,51 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
 
 <head>
-	<title>Reading Guide for Aspiring UNIX/Linux System Administrators</title>
+	<title>SABOK Guide</title>
 </head>
 
 <body>
 
-<h1>Reading Guide for Aspiring UNIX/Linux System Administrators</h1>
+
+<h1>Guide to the Sys Admin Body of Knowledge (SABOK) for Aspiring UNIX/Linux System Administrators</h1>
 
 <h2>Intended audience</h2>
 <ul>
-	<li>Anyone who wants to be a UNIX/Linux System Administrator, or</li>
-	<li>Junior System Administrators who wish to further their knowledge to make sure their foundation is solid for advancement to Intermediate level.</li>
+	<li>Anyone who wants to be a UNIX/Linux System Administrator,</li>
+	<li>Junior System Administrators who want to make sure their foundation is solid for advancement to more senior levels,</li>
+	<li>Intermediate/Advanced/Senior System Administrators advancing to more senior levels.</li>
 </ul>
 
 <h2>Scope</h2>
-This document will provide a guide to the professional literature of the field.
+This document provides a guide to the professional literature of the field.
 
 This document does not include practice exercises.  However, practical experience is <em>essential</em> to success in the field.  The reader is encouraged to practice everything they read about.  A separate future document or series of documents will include guided practical exercises.
+This guide will give an overview of the normative literature in the field -
+publications that lay out the norms of the field, or what is generally
+agreed upon (i.e. best practices).
+
+The guide also includes links to definitions of what system administration is, what the
+boundaries of the field are, and what other fields are adjacent to
+system administration.
+
+
+<h2>Acknowledgedments</h2>
+Thanks to Jonah Sinowitz, Eric Sorenson, Mark Burgess and Shahab Shawn Sheikhzadeh for help in compiling this list.
+
+<h2>Feedback, please</h2>
+
+Comments welcome! (aleksey@verticalsysadmin.com)
+
+
 
 <h2>How to use this guide</h2>
 The materials should be studied and practiced in sequence.
 
-There are two parts to the guide - Core and Supplemental.
-
 The Core contains essential reading.  You should start with the Core.
 
 You can then supplement and expand your knowledge using the Supplemental list.
+
+You can advance your knowledge further using the Advanced list.
 
 <h2>Core Reading List</h2>
 
@@ -77,7 +96,7 @@ You can then supplement and expand your knowledge using the Supplemental list.
        <a href=http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download>
        Shotts, William. <em>The Linux Command Line: A Complete Introduction</em> Second Edition, 2013.  http://linuxcommand.org
        </a>
-       <p>A complete introduction to the Linux Command Line.  We have started to recommend this book instead of the dated "The UNIX Programming Environment". Availabe in PDF and dead tree versions.</p>
+       <p>A complete introduction to the Linux Command Line.  We have started to recommend this book instead of the dated "The UNIX Programming Environment". Available in PDF and dead tree versions.</p>
     </td>
   </tr>
 
@@ -165,10 +184,98 @@ You can then supplement and expand your knowledge using the Supplemental list.
 	<li>Learning CFEngine 3</li>
 	<li>Backup and Recovery</li>
 	<li>Time Management for System Administrators</li>
+	<li>PostgreSQL: Up and Running</li>
 </ul>
 
-<h2>Additional Resources</h2>
+
+<h2>Normative Literature</h2>
+
+<pre>
+List of normative literature (describing norms or standards)
+in the field of (Unix/Linux) system administration:
+
+* "The Limoncelli Test: 32 Questions for Your Sysadmin Team" (29 July 2011)
+  Tom Limoncelli
+  http://everythingsysadmin.com/the-test.html
+
+* RFC 1178 "Choosing a Name for Your Computer"
+  http://www.faqs.org/rfcs/rfc1178.html
+
+* Short Topics in System Administration
+  https://www.usenix.org/lisa/books
+
+* SA-BOK by Geoff Halprin (1997)
+  http://www.sysadmin.com.au/sa-bok.html
+  http://www.sysadmin.com.au/sa-bok/sa-bok-0500.pdf
+  http://www.sysadmin.com.au/sa-bok/disciplines.pdf
+
+* "On Designing and Deploying Internet-Scale Services"
+  James Hamilton 
+  http://www.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/
+
+
+
+</pre>
+
+<h2>What is system administration?</h2>
+Describing the boundaries of the field, and what other fields are adjacent to system administration.
+
+<pre>
+
+* http://www.bls.gov/oco/ocos305.htm#nature
+  US Department of Labor, Bureau of Labor Statistics, Occupational Outlook K Handbook 
+
+* http://en.wikipedia.org/wiki/System_administrator
+
+* http://www.sysadminday.com/ - a description of some typical sysadmin duties.
+
+* http://www.taos.com/Newsletter/Mar%2011/Taos-Duality_final.pdf
+  Nicole F. Velasquez describes how a sysadmin interfaces between business and tech worlds
+
+</pre>
+
+<h2>MORE BASIC TRAINING RESOURCES</h2>
+
+"An Introduction to the Unix Shell" by S. Bourne, author of the Bourne shell (sh)
+http://steve-parker.org/sh/bourne.shtml
+
+Steve Parker's shell scripting tutorial
+http://steve-parker.org/sh/sh.shtml
+
+Unix Programming Environment 
+http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X
+
+Linux for Dummies
+http://www.dummies.com/store/Computers-Internet/Operating-Systems/Linux.html
+
+Linux Pocket Guide
+http://oreilly.com/catalog/9780596006280/
+
+Learning the bash Shell
+http://oreilly.com/catalog/9780596009656/
+
+Linux in a Nutshell (2009 edition)
+http://oreilly.com/catalog/9780596154486/
+
+<h2>Advanced List - Training Resources for an Intermediate/Advanced UNIX/Linux System Administrator to advance to Senior</h2>
+
+<pre>
+"Handbook of Network and System Administration", Edited by
+Jan Bergstra and Mark Burgess. November 2007.
+http://www.elsevier.com/wps/find/bookdescription.cws_home/713461/descrip...
+
+Moskowitz, Adam. (2010). “The Path to Senior Sysadmin.” USENIX members can see the invited talk here: http://www.usenix.org/multimedia/lisa10moskowitz/
+
+"In Search of Certainty" by Mark Burgess (2013)
+
+http://brendangregg.com/books.html
+Brendan Gregg's Recommended Reading list
+
+</pre>
+
+<h2>More Resources</h2>
 <ul>
 	<li><a href=http://www.lopsa.org/content/sabok>Guide to the Sys Admin Body of Knowledge</a></li>
 	<li><a href=http://www.opsschool.org>Ops School</a></li>
+	<li><a href=http://http://www.reddit.com/r/sysadmin/wiki/index>/r/sysadmin Wiki</a></li>
 </ul>	
