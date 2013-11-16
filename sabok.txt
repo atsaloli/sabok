@@ -213,3 +213,4 @@ Additional Resources
 * http://www.opsschool.org[Ops School]
 * http://http://www.reddit.com/r/sysadmin/wiki/index[/r/sysadmin Wiki]
 * https://groups.google.com/forum/#!forum/ops-education[ops-education Google Group]
+* https://sites.google.com/site/educatingsystemsfolks/home/university-programs[Degree Programs in Systems Administration]
