@@ -1,0 +1,32 @@
+What is system administration?
+------------------------------
+
+The materials in this section decribe the boundaries of the field of system administation, and what fields are adjacent.
+[Perhaps this should be broken out into a separate document?]
+
+=== System Administration
+
+* http://www.bls.gov/oco/ocos305.htm#nature
+  US Department of Labor, Bureau of Labor Statistics, Occupational Outlook K Handbook 
+
+* http://en.wikipedia.org/wiki/System_administrator
+
+* http://www.sysadminday.com/ - a description of some typical sysadmin duties.
+
+* http://www.taos.com/Newsletter/Mar%2011/Taos-Duality_final.pdf
+  Nicole F. Velasquez describes how a sysadmin interfaces between business and tech worlds
+
+=== Adjacent/overlapping fields
+
+* Software Engineering
+* Systems Engineering
+
+=== Subfields and specialities
+
+* Server administration
+* Network administration
+* Storage administration
+* Database administration
+* Middleware / Application server administration
+* Web Operations
+

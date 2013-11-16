@@ -1,0 +1,217 @@
+Guide to the [UNIX/Linux server] Sys Admin Body of Knowledge
+============================================================
+
+// This is an AsciiDoc document
+
+	
+
+Intended audience
+-----------------
+
+* Anyone who wants to be a System Administrator,
+* Junior System Administrators who want to make sure their foundation is solid for advancement to more senior levels,
+* Intermediate/Advanced/Senior System Administrators advancing to more senior levels,
+* Trainers and Educators
+
+
+Scope
+-----
+
+This is a guide to the professional literature of the field of
+System Administration.
+
+This document does not include practice exercises.  However, practical
+experience is essential to success in the field.  The reader is encouraged
+to practice what they read about.  A future document (or series) will
+include guided practical exercises.
+
+This guide includes an overview of the normative literature in the field -
+publications that lay out the norms of the field, or what is generally
+agreed upon (i.e. best practices).  The purpose of that is to encourage
+normative literature, which essential for professionalization.
+
+
+Acknowledgedments
+-----------------
+
+Thanks to Jonah Sinowitz, Eric Sorenson, Mark Burgess, Shahab Shawn Sheikhzadeh, Willard Dennis and Kyrre Begnum for help in compiling this list.
+
+
+Feedback, please
+----------------
+
+Comments welcome! feedback@sabok.org
+
+
+How to use this guide
+---------------------
+
+The materials should be studied and practiced in sequence.
+
+The Core contains essential reading.  The Normative list
+contains additional best practices. Start with the Core
+and then the Normative list.
+
+Supplement and expand your knowledge using the Supplemental list.
+
+Advance your knowledge further using the Advanced list.
+
+
+Core Reading List
+-----------------
+
+image:http://www.pearson.ch/bild.aspx?id=9780321492661.jpg[height=150,width=125,link="http://everythingsysadmin.com/aboutbook.html"]
+Limoncelli, Thomas A., Christine Hogan, and Strata R. Chalup. _The Practice of System and Network Administration_, 2nd ed.  Harlow: Addison-Wesley, 2007. Print. 
+
+A comprehensive overview of the practice of system administration. 
+
+http://everythingsysadmin.com/aboutbook.html
+
+
+Core Reading List - Linux/UNIX specific
+---------------------------------------
+
+image:http://media.wiley.com/product_data/coverImage300/92/11181067/1118106792.jpg[height=150,width=125,link="http://www.lpimarketplace.com/ProductDetails.asp?ProductCode=978-1-118-10679-2"]
+Smith, Roderick W. _Linux Essentials_ Indianapolis, IN: Wiley, 2012. Print.
+
+An introduction to Linux and Open Source.
+
+http://www.lpimarketplace.com/ProductDetails.asp?ProductCode=978-1-118-10679-2
+
+
+image:images/Linux_Essentials.jpg[height=150,width=125,link="http://shop-download.linupfront.de/cc/lxes-en-manual-cc.pdf"]
+Elsner, Tobias et al. _Linux Essentials: The LPI Introductory Programme_ Darmstadt, Germany: Linup Front, 2012.
+
+An alternative introduction to Linux and Open Source. Courseware for LPI Linux Essentials program. Free for non-commercial use.
+
+http://shop.linupfront.com/
+
+http://shop-download.linupfront.de/cc/lxes-en-manual-cc.pdf
+
+
+image:http://nostarch.com/sites/default/files/imagecache/product_main_page/linuxcommandline.png[height=150,width=125,link="http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download"]
+Shotts, William. _The Linux Command Line: A Complete Introduction_ First Edition. San Francisco: No Starch, 2012. Print.
+
+http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download
+
+Shotts, William. _The Linux Command Line: A Complete Introduction_ Second Edition, 2013.  http://linuxcommand.org
+A complete introduction to the Linux Command Line.  We have started to recommend this book instead of the dated "The UNIX Programming Environment". Available in PDF and dead tree versions.
+
+
+image:http://www.admin.com/img/Book.png[height=150,width=125,link="http://www.admin.com"]
+Nemeth, Evi et al. _Unix and Linux System Administration Handbook_, 4th ed. Upper Saddle River, NJ: Prentice Hall, 2012. Print.
+
+"This is a comprehensive guide to the care and feeding of UNIX and Linux systems. The authors present the facts along with seasoned advice and real-world examples." -- Pat Parseghian
+
+
+
+
+image:http://akamaicovers.oreilly.com/images/9780596003432/cat.gif[height=150,width=125,link="http://oreilly.com/catalog/9780596003432"]
+Frisch, &AElig;leen. <em>Essential System Administration</em>, 3rd ed. Beijing: O'Reilly, 2002. Print.
+
+
+Normative Literature
+--------------------
+
+List of normative literature (describing norms or standards)
+in the field of (Unix/Linux) system administration:
+
+Everything in the "Core" lists above, and:
+
+* "The Limoncelli Test: 32 Questions for Your Sysadmin Team" (29 July 2011)
+  Tom Limoncelli
+  http://everythingsysadmin.com/the-test.html
+
+* RFC 1178 "Choosing a Name for Your Computer"
+  http://www.faqs.org/rfcs/rfc1178.html
+
+* Short Topics in System Administration
+  https://www.usenix.org/lisa/books
+
+* SA-BOK by Geoff Halprin (1997)
+  http://www.sysadmin.com.au/sa-bok.html
+  http://www.sysadmin.com.au/sa-bok/sa-bok-0500.pdf
+  http://www.sysadmin.com.au/sa-bok/disciplines.pdf
+
+* "On Designing and Deploying Internet-Scale Services"
+  James Hamilton 
+  http://www.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/
+
+
+Supplemental Reading List
+-------------------------
+
+image:http://akamaicovers.oreilly.com/images/9780596529833/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/9780596529833.do"]
+Robbins, Arnold, Elbert Hannah, Linda Lamb, and Linda Lamb<em>Learning the vi and Vim Editors: Text processing at maximum speed and power</em>, 7th ed.  Sebastopol, CA: O'Reilly Media, 2008. Print.
+
+http://shop.oreilly.com/product/9780596529833.do
+
+Using "vi", a standard UNIX text editor.
+
+image:$$http://ecx.images-amazon.com/images/I/41QM4SPEAAL._SX258_BO1,204,203,200_.jpg$$[height=150,width=125,link="http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X"]
+Kernighan, Brian W., and Rob Pike. _The UNIX Programming Environment_. Englewood Cliffs, NJ: Prentice-Hall, 1984. Print.
+
+http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X
+
+Chapters 1 - 6 introduce a new user to UNIX.
+
+
+Additional titles
+-----------------
+* _Learning Perl_
+* _DNS and Bind_
+* _Automating System Administration with Perl_
+* _Learning CFEngine 3_
+* _Backup and Recovery_
+* _Time Management for System Administrators_
+* _PostgreSQL: Up and Running_
+
+
+
+_Basic Training Resources_
+
+* "An Introduction to the Unix Shell" by S. Bourne, author of the Bourne shell (sh)
+http://steve-parker.org/sh/bourne.shtml
+
+* Steve Parker's shell scripting tutorial
+http://steve-parker.org/sh/sh.shtml
+
+* Unix Programming Environment 
+http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X
+
+* Linux for Dummies
+http://www.dummies.com/store/Computers-Internet/Operating-Systems/Linux.html
+
+* Linux Pocket Guide
+http://oreilly.com/catalog/9780596006280/
+
+* Learning the bash Shell
+http://oreilly.com/catalog/9780596009656/
+
+* Linux in a Nutshell (2009 edition)
+http://oreilly.com/catalog/9780596154486/
+
+
+_Advanced List - Resources for Intermediate/Advanced/Senior System Administrators
+
+"Handbook of Network and System Administration", Edited by
+Jan Bergstra and Mark Burgess. November 2007.
+http://www.elsevier.com/wps/find/bookdescription.cws_home/713461/descrip
+
+"In Search of Certainty" by Mark Burgess (2013)
+
+Moskowitz, Adam. (2010). “The Path to Senior Sysadmin.” USENIX members can see the invited talk here: http://www.usenix.org/multimedia/lisa10moskowitz/
+
+
+"Systems Performance" by Brendan Gregg
+
+http://brendangregg.com/books.html
+Brendan Gregg's Recommended Reading list
+
+
+Kim, Gene, Kevin Behr, and George Spafford. _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_. Portland, OR: IT Revolution, 2013. Print.
+
+Additional Resources
+* http://www.opsschool.org[Ops School]
+* http://http://www.reddit.com/r/sysadmin/wiki/index[/r/sysadmin Wiki]
+* https://groups.google.com/forum/#!forum/ops-education[ops-education Google Group]
