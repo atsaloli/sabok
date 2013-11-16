@@ -168,7 +168,8 @@ Additional titles
 
 
 
-_Basic Training Resources_
+Resources for Basic Training
+----------------------------
 
 * "An Introduction to the Unix Shell" by S. Bourne, author of the Bourne shell (sh)
 http://steve-parker.org/sh/bourne.shtml
@@ -192,26 +193,23 @@ http://oreilly.com/catalog/9780596009656/
 http://oreilly.com/catalog/9780596154486/
 
 
-_Advanced List - Resources for Intermediate/Advanced/Senior System Administrators
+Resources for Advanced Study
+----------------------------
 
-"Handbook of Network and System Administration", Edited by
-Jan Bergstra and Mark Burgess. November 2007.
-http://www.elsevier.com/wps/find/bookdescription.cws_home/713461/descrip
+* http://www.elsevier.com/wps/find/bookdescription.cws_home/713461/descrip["Handbook of Network and System Administration", Edited by Jan Bergstra and Mark Burgess. November 2007.]
 
-"In Search of Certainty" by Mark Burgess (2013)
+* http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO[_In Search of Certainty_ by Mark Burgess (2013)]
 
-Moskowitz, Adam. (2010). “The Path to Senior Sysadmin.” USENIX members can see the invited talk here: http://www.usenix.org/multimedia/lisa10moskowitz/
+* http://www.usenix.org/multimedia/lisa10moskowitz/[Moskowitz, Adam. (2010). _The Path to Senior Sysadmin._]
 
+* http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098[_Systems Performance: Enterprise and the Cloud_ by Brendan Gregg]
 
-"Systems Performance" by Brendan Gregg
+* http://brendangregg.com/books.html[Brendan Gregg's Recommended Reading list]
 
-http://brendangregg.com/books.html
-Brendan Gregg's Recommended Reading list
-
-
-Kim, Gene, Kevin Behr, and George Spafford. _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_. Portland, OR: IT Revolution, 2013. Print.
+* http://itrevolution.com/books/phoenix-project-devops-book/[Kim, Gene, Kevin Behr, and George Spafford. _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_. Portland, OR: IT Revolution, 2013. Print.]
 
 Additional Resources
+--------------------
 * http://www.opsschool.org[Ops School]
 * http://http://www.reddit.com/r/sysadmin/wiki/index[/r/sysadmin Wiki]
 * https://groups.google.com/forum/#!forum/ops-education[ops-education Google Group]
