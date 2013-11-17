@@ -194,10 +194,22 @@ http://oreilly.com/catalog/9780596154486/
 
 * "Computer Immunology" paper by Mark Burgess
 
-
 * http://www.elsevier.com/wps/find/bookdescription.cws_home/713461/descrip["Handbook of Network and System Administration", Edited by Jan Bergstra and Mark Burgess. November 2007.]
 
 * http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO[_In Search of Certainty_ by Mark Burgess (2013)]
+
+* "Principles of Network and System Administration" by Mark Burgess
+
+* "Analytical Network and System Administration" by Mark Burgess
+
+* http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524[Effective Monitoring and Alerting for Operations]
+
+* _Scalable internet architectures_ by Theo Schlossnagle
+
+* image:http://akamaicovers.oreilly.com/images/0636920000136/cat.gif[height=150,width=125,link="http://akamaicovers.oreilly.com/images/0636920000136/cat.gif"]
+_Web Operations: Keeping the Data On Time_
+John Allspaw, Jesse Robbins
+http://shop.oreilly.com/product/0636920000136.do
 
 * http://www.usenix.org/multimedia/lisa10moskowitz/[Moskowitz, Adam. (2010). _The Path to Senior Sysadmin._]
 
