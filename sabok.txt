@@ -109,10 +109,9 @@ Hard skills:: Working with technology.
 
 Soft skills:: Working with people. This includes communication, project management, time management, persuasion, leadership, cooperation, business alignment, etc.
 
-[cols="2*", frame="none"]
-|===
-| |  _Time Management for System Administrators_
-|===
+* _Time Management for System Administrators_ by Tom Limoncelli
+* http://www.opsschool.org/en/latest/soft_skills_101.html
+
 
 == Normative Literature
 
