@@ -230,7 +230,8 @@ http://shop.oreilly.com/product/0636920000136.do
 * http://yourdon.com/strucanalysis/ "Just Enough Structured Analysis" by Ed Yourdon - a basic systems engineering text
 
 === More Resources
+* http://www.lopsa.org[League of Professional System Administrators]
 * http://www.opsschool.org[Ops School]
-* http://http://www.reddit.com/r/sysadmin/wiki/index[/r/sysadmin Wiki]
+* http://http://www.reddit.com/r/sysadmin/wiki/index[Reddit /r/sysadmin Wiki]
 * https://groups.google.com/forum/#!forum/ops-education[ops-education Google Group]
 * https://sites.google.com/site/educatingsystemsfolks/home/university-programs[Degree Programs in Systems Administration]
