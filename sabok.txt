@@ -166,7 +166,7 @@ Chapters 1 - 6 introduce a new user to UNIX.  If you want to make sure your fund
 
 == Additional Resources
 
-=== Additional Resources for Basic Training
+=== Basic Training
 
 * "An Introduction to the Unix Shell" by S. Bourne, author of the Bourne shell (sh)
 http://steve-parker.org/sh/bourne.shtml
@@ -190,7 +190,7 @@ http://oreilly.com/catalog/9780596009656/
 http://oreilly.com/catalog/9780596154486/
 
 
-=== Resources for Advanced Study
+=== Advanced Study
 
 * "Computer Immunology" paper by Mark Burgess
 
