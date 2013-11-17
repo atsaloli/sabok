@@ -215,6 +215,7 @@ http://oreilly.com/catalog/9780596154486/
 
 * "Errors of Observation and their Treatment" by Topping
 
+* http://yourdon.com/strucanalysis/ "Just Enough Structured Analysis" by Ed Yourdon - a basic systems engineering text
 
 === More Resources
 * http://www.opsschool.org[Ops School]
