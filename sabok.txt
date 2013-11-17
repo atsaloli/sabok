@@ -50,9 +50,12 @@ Advance your knowledge further by study from the *Advanced* list.
 [cols="2*", frame="none"]
 |===
 | image:http://media.wiley.com/product_data/coverImage300/74/04708680/0470868074.jpg[height=150,width=125,link="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470868074.html"] | Burgess, Mark. _Principles of Network and System Administration_. Hoboken, NJ: Wiley, 2004. Print.
+
+This is a college text.
+
 | image:http://www.pearson.ch/bild.aspx?id=9780321492661.jpg[height=150,width=125,link="http://everythingsysadmin.com/aboutbook.html"] | Limoncelli, Thomas A., Christine Hogan, and Strata R. Chalup. _The Practice of System and Network Administration_, 2nd ed.  Harlow: Addison-Wesley, 2007. Print. 
 
-A comprehensive overview of the practice of system administration. 
+A comprehensive overview of the practice of system administration. Written by system administrators for system administrators.
 
 http://everythingsysadmin.com/aboutbook.html
 
@@ -201,7 +204,7 @@ http://oreilly.com/catalog/9780596154486/
 * http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO[_In Search of Certainty_ by Mark Burgess (2013)]
 
 
-* "Analytical Network and System Administration" by Mark Burgess
+* "Analytical Network and System Administration" by Mark Burgess.  This is a super advanced text. https://github.com/markburgess/ANSA[Exercises for "Analytical Network and System Administration"]
 
 * http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524[Effective Monitoring and Alerting for Operations]
 
