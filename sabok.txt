@@ -111,6 +111,11 @@ Soft skills:: Working with people. This includes communication, project manageme
 * _Time Management for System Administrators_ by Tom Limoncelli
 * http://www.opsschool.org/en/latest/soft_skills_101.html
 
+=== Other important skills
+
+* Learning how to learn (soft?)
+* Troubleshooting (hard?)
+
 
 == Normative literature
 
