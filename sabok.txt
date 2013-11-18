@@ -38,9 +38,9 @@ literature - publications that lay out the norms of the field,
 or what is generally agreed upon (i.e. best practices). 
 Norms and standards are essential for professionalization.
 
-You can add to your Core Knowledge with selections from the *Supplemental* list as needed.
+You can add to your Core Knowledge with selections from the *Supplemental* list.
 
-Advance your knowledge further by study from the *Advanced* list.
+Advance your knowledge by study from the *Advanced* list.
 
 
 == Core
@@ -206,7 +206,7 @@ http://oreilly.com/catalog/9780596154486/
 
 * "Analytical Network and System Administration" by Mark Burgess.  This is a super advanced text. https://github.com/markburgess/ANSA[Exercises for "Analytical Network and System Administration"]
 
-* http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524[Effective Monitoring and Alerting for Operations]
+* image:http://akamaicovers.oreilly.com/images/0636920025986/cat.gif[height=150,width=125,link="http://akamaicovers.oreilly.com/images/0636920025986/cat.gif"]  http://shop.oreilly.com/product/0636920025986.do[Slawek, Ligus. _Effective Monitoring and Alerting: For Web Operations_]
 
 * _Scalable internet architectures_ by Theo Schlossnagle
 
