@@ -2,7 +2,7 @@
 
 == Intended audience
 
-* Anyone who wants to be a System Administrator,
+* Anyone who wants to be a http://sabok.org/field.html[System Administrator],
 * Junior System Administrators who want to make sure their foundation is solid for advancement to more senior levels,
 * Intermediate/Advanced/Senior System Administrators advancing to more senior levels,
 * Trainers and Educators
@@ -111,7 +111,7 @@ Soft skills are increasingly recognized as essential to success in system admini
 
 Hard skills:: Working with technology.
 
-Soft skills:: Working with people. This includes communication, project management, time management, persuasion, leadership, cooperation, business alignment, learning how to learn (and teach), etc.
+Soft skills:: Working with people. This includes communication (including writing RFPs, presenting, etc.), project management, time management, persuasion, leadership, cooperation, business alignment, learning how to learn (and teach), etc.
 
 * _Time Management for System Administrators_ by Tom Limoncelli
 * http://www.opsschool.org/en/latest/soft_skills_101.html
@@ -235,9 +235,10 @@ http://shop.oreilly.com/product/0636920000136.do
 
 * ?? Need something for troubleshooting ??
 
-=== More Resources
+=== Maturing System Administration
 * http://www.lopsa.org[League of Professional System Administrators]
 * http://www.opsschool.org[Ops School]
 * http://http://www.reddit.com/r/sysadmin/wiki/index[Reddit /r/sysadmin Wiki]
 * https://groups.google.com/forum/#!forum/ops-education[ops-education Google Group]
 * https://sites.google.com/site/educatingsystemsfolks/home/university-programs[Degree Programs in Systems Administration]
+* https://www.usenix.org/event/lisa99/invitedtalks/halprin.pdf[Maturing System Administration, 1999 presentation by Geoff Halprin]
