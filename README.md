@@ -1,5 +1,5 @@
-Guide to System Administartion Body of Knowledge
-------------------------------------------------
+Guide to System Administration Body of Knowledge (Guide-SABOK)
+--------------------------------------------------------------
 
 The content of www.sabok.org, the Guide to the System Administration Body of Knowledge,
 lives in the "gh-pages" (GitHub Pages) branch of https://github.com/atsaloli/sabok repo.
