@@ -50,8 +50,9 @@ Advance your knowledge by study from the *Advanced* list.
 [cols="2*", frame="none"]
 |===
 | image:http://media.wiley.com/product_data/coverImage300/74/04708680/0470868074.jpg[height=150,width=125,link="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470868074.html"] | Burgess, Mark. _Principles of Network and System Administration_. Hoboken, NJ: Wiley, 2004. Print.
+|  | ISBN: 978-0-470-86807-2
 
-This is a college text.
+This is a introductory college text, written by the creator of a well-known configuration management tool (CFEngine) while he was teaching Systems Administration at Oslo University College in Oslo, Norway.
 
 | image:http://www.pearson.ch/bild.aspx?id=9780321492661.jpg[height=150,width=125,link="http://everythingsysadmin.com/aboutbook.html"] | Limoncelli, Thomas A., Christine Hogan, and Strata R. Chalup. _The Practice of System and Network Administration_, 2nd ed.  Harlow: Addison-Wesley, 2007. Print. 
 
@@ -61,7 +62,7 @@ http://everythingsysadmin.com/aboutbook.html
 
 |===
 
-=== UNIX/Linux track: the command line
+=== UNIX/Linux track: OS Basics
 [cols="2*", frame="none"]
 |===
 | image:http://media.wiley.com/product_data/coverImage300/92/11181067/1118106792.jpg[height=150,width=125,link="http://www.lpimarketplace.com/ProductDetails.asp?ProductCode=978-1-118-10679-2"] | Smith, Roderick W. _Linux Essentials_ Indianapolis, IN: Wiley, 2012. Print.
@@ -88,7 +89,7 @@ A complete introduction to the Linux Command Line.  We have started to recommend
 |===
 
 
-=== UNIX/Linux track: system administration
+=== UNIX/Linux track: System Administration
 
 [cols="2*", frame="none"]
 |===
@@ -205,7 +206,6 @@ http://oreilly.com/catalog/9780596154486/
 
 * http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO[_In Search of Certainty_ by Mark Burgess (2013)]
 
-
 * "Analytical Network and System Administration" by Mark Burgess.  This is a super advanced text. https://github.com/markburgess/ANSA[Exercises for "Analytical Network and System Administration"]
 
 * image:http://akamaicovers.oreilly.com/images/0636920025986/cat.gif[height=150,width=125,link="http://akamaicovers.oreilly.com/images/0636920025986/cat.gif"]  http://shop.oreilly.com/product/0636920025986.do[Slawek, Ligus. _Effective Monitoring and Alerting: For Web Operations_]
@@ -237,7 +237,7 @@ http://shop.oreilly.com/product/0636920000136.do
 
 * ?? Need something for troubleshooting ??
 
-=== Maturing System Administration
+=== Organizations and Other Resources for Maturing System Administration
 * http://www.lopsa.org[League of Professional System Administrators]
 * http://www.opsschool.org[Ops School]
 * http://http://www.reddit.com/r/sysadmin/wiki/index[Reddit /r/sysadmin Wiki]
