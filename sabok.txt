@@ -114,6 +114,7 @@ Hard skills:: Working with technology.
 Soft skills:: Working with people. This includes communication (including writing RFPs, presenting, etc.), project management, time management, persuasion, leadership, cooperation, business alignment, learning how to learn (and teach), etc.
 
 * _Time Management for System Administrators_ by Tom Limoncelli
+* _A Sysadmin's Guide to Navigating the Business World_ by Burgess and Rowland, USENIX Short Topics on Systems Administration, 2010 (ISBN 978-1-931971-81-2)
 * http://www.opsschool.org/en/latest/soft_skills_101.html
 
 
