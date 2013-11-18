@@ -62,7 +62,7 @@ http://everythingsysadmin.com/aboutbook.html
 
 |===
 
-=== UNIX/Linux track: OS Basics
+=== UNIX/Linux track: User Basics
 [cols="2*", frame="none"]
 |===
 | image:http://media.wiley.com/product_data/coverImage300/92/11181067/1118106792.jpg[height=150,width=125,link="http://www.lpimarketplace.com/ProductDetails.asp?ProductCode=978-1-118-10679-2"] | Smith, Roderick W. _Linux Essentials_ Indianapolis, IN: Wiley, 2012. Print.
