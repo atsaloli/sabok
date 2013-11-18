@@ -125,6 +125,7 @@ Literature describing norms or standards in the field of (Unix/Linux) system adm
 * "The Limoncelli Test: 32 Questions for Your Sysadmin Team" (29 July 2011)
   Tom Limoncelli
   http://everythingsysadmin.com/the-test.html
+  http://www.opsreportcard.com/
 
 * RFC 1178 "Choosing a Name for Your Computer"
   http://www.faqs.org/rfcs/rfc1178.html
