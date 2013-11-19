@@ -118,7 +118,7 @@ _TBD_
 
 Generally accepted as the best book on Microsoft Active Directory, which is Microsoft's implementation of LDAP + Kerberos.
 
-| image:http://ecx.images-amazon.com/images/I/51UmnFuFNeL._SY300_.jpg[height=150,width=125,link="http://www.amazon.com/Inside-Active-Directory-Administrators-Edition/dp/0321228480"] | Kouti, Sakari and Mika Seitsonen. _Inside Active Directory: A System Administrator's Guide_, (2nd Ed.) Boston: Addison-Wesley Professional, 2004. Print. 
+| image:images/InsideAD2ndEd.jpg[height=150,width=125,link="http://www.amazon.com/Inside-Active-Directory-Administrators-Edition/dp/0321228480"] | Kouti, Sakari and Mika Seitsonen. _Inside Active Directory: A System Administrator's Guide_, (2nd Ed.) Boston: Addison-Wesley Professional, 2004. Print. 
 
 An older classic on AD, goes into the internals.
 |===
