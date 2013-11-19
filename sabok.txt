@@ -50,11 +50,14 @@ Advance your knowledge by study from the *Advanced* list.
 [cols="2*", frame="none"]
 |===
 | image:http://media.wiley.com/product_data/coverImage300/74/04708680/0470868074.jpg[height=150,width=125,link="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470868074.html"] | Burgess, Mark. _Principles of Network and System Administration_. Hoboken, NJ: Wiley, 2004. Print.
-|  | ISBN: 978-0-470-86807-2
+
+ISBN-13: 978-0-470-86807-2
 
 This is a introductory college text, written by the creator of a well-known configuration management tool (CFEngine) while he was teaching Systems Administration at Oslo University College in Oslo, Norway.
 
 | image:http://www.pearson.ch/bild.aspx?id=9780321492661.jpg[height=150,width=125,link="http://everythingsysadmin.com/aboutbook.html"] | Limoncelli, Thomas A., Christine Hogan, and Strata R. Chalup. _The Practice of System and Network Administration_, 2nd ed.  Harlow: Addison-Wesley, 2007. Print. 
+
+ISBN-13: 978-0-321-49266-1
 
 A comprehensive overview of the practice of system administration. Written by system administrators for system administrators.
 
@@ -62,7 +65,7 @@ http://everythingsysadmin.com/aboutbook.html
 
 |===
 
-=== UNIX/Linux track: OS Basics
+=== UNIX/Linux track: User Basics
 [cols="2*", frame="none"]
 |===
 | image:http://media.wiley.com/product_data/coverImage300/92/11181067/1118106792.jpg[height=150,width=125,link="http://www.lpimarketplace.com/ProductDetails.asp?ProductCode=978-1-118-10679-2"] | Smith, Roderick W. _Linux Essentials_ Indianapolis, IN: Wiley, 2012. Print.
@@ -102,7 +105,36 @@ A complete introduction to the Linux Command Line.  We have started to recommend
 |===
 
 
-=== Windows track
+=== Microsoft Windows track
+
+==== Windows Server
+_TBD_
+
+==== Active Directory
+
+[cols="2*", frame="none"]
+|===
+| image:http://akamaicovers.oreilly.com/images/0636920023913/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/0636920023913.do"] | Desmond, Brian; Joe Richards, Robbie Allen, Alistair Lowe-Norris. _Active Directory, 5th Edition_,  Sebastopol, CA: O'Reilly, 2013. Print. 
+
+Generally accepted as the best book on Microsoft Active Directory, which is Microsoft's implementation of LDAP + Kerberos.
+
+| image:http://ecx.images-amazon.com/images/I/51UmnFuFNeL._SY300_.jpg[height=150,width=125,link="http://www.amazon.com/Inside-Active-Directory-Administrators-Edition/dp/0321228480"] | Kouti, Sakari and Mika Seitsonen. _Inside Active Directory: A System Administrator's Guide_, (2nd Ed.) Boston: Addison-Wesley Professional, 2004. Print. 
+
+An older classic on AD, goes into the internals.
+|===
+
+==== PowerShell (modern Windows command line)
+
+[cols="2*", frame="none"]
+|===
+| image:http://www.manning.com/jones3/jones3_cover150.jpg[height=150,width=125,link="http://www.manning.com/jones3/"] | Jones, Don and Jeffery Hicks. _Learn Windows PowerShell 3 in a Month of Lunches_,  Greenwich, CT: Manning, 2013. Print.
+
+"This book is a tutorial designed for busy administrators. Just set aside one hour a day for a month and you'll learn all the practical techniques you need to make your job easier and your day shorter. This totally revised second edition covers new PowerShell 3 features designed for Windows 8 and Windows Server 2012. Experience with Windows administration is helpful. No programming experience is assumed."
+The first edition (_Learn Windows PowerShell in a Month of Lunches_) covers PowerShell v2.0.
+
+|===
+
+==== Websites with good Windows admin content
 
 http://www.opsschool.org/en/latest/windows_101.html
 
