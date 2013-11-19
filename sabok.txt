@@ -65,7 +65,8 @@ http://everythingsysadmin.com/aboutbook.html
 
 |===
 
-=== UNIX/Linux track: User Basics
+=== UNIX/Linux track
+==== User Basics
 [cols="2*", frame="none"]
 |===
 | image:http://media.wiley.com/product_data/coverImage300/92/11181067/1118106792.jpg[height=150,width=125,link="http://www.lpimarketplace.com/ProductDetails.asp?ProductCode=978-1-118-10679-2"] | Smith, Roderick W. _Linux Essentials_ Indianapolis, IN: Wiley, 2012. Print.
@@ -92,7 +93,7 @@ A complete introduction to the Linux Command Line.  We have started to recommend
 |===
 
 
-=== UNIX/Linux track: System Administration
+==== System Administration
 
 [cols="2*", frame="none"]
 |===
@@ -104,6 +105,84 @@ A complete introduction to the Linux Command Line.  We have started to recommend
 | image:http://akamaicovers.oreilly.com/images/9780596003432/cat.gif[height=150,width=125,link="http://oreilly.com/catalog/9780596003432"] | Frisch, &AElig;leen. _Essential System Administration_, 3rd ed. Beijing: O'Reilly, 2002. Print.
 |===
 
+
+==== Supplemental reading
+
+===== Additional Resources for Basic Training
+
+* "An Introduction to the Unix Shell" by S. Bourne, author of the Bourne shell (sh)
+http://steve-parker.org/sh/bourne.shtml
+
+* Steve Parker's shell scripting tutorial
+http://steve-parker.org/sh/sh.shtml
+
+* Unix Programming Environment 
+http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X
+
+* Linux for Dummies
+http://www.dummies.com/store/Computers-Internet/Operating-Systems/Linux.html
+
+* Linux Pocket Guide
+http://oreilly.com/catalog/9780596006280/
+
+* Learning the bash Shell
+http://oreilly.com/catalog/9780596009656/
+
+* Linux in a Nutshell (2009 edition)
+http://oreilly.com/catalog/9780596154486/
+
+[cols="2*", frame="none"]
+|===
+| image:$$http://ecx.images-amazon.com/images/I/41QM4SPEAAL._SX258_BO1,204,203,200_.jpg$$[height=150,width=125,link="http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X"] | Kernighan, Brian W., and Rob Pike. _The UNIX Programming Environment_. Englewood Cliffs, NJ: Prentice-Hall, 1984. Print.
+
+
+http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X
+
+Chapters 1 - 6 introduce a new user to UNIX.  If you want to make sure your fundamentals are fully in, go back to the source, the origin of UNIX.
+|===
+
+===== Editors
+[cols="2*", frame="none"]
+|===
+| image:http://akamaicovers.oreilly.com/images/9780596529833/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/9780596529833.do"] | Robbins, Arnold, Elbert Hannah, Linda Lamb, and Linda Lamb. _Learning the vi and Vim Editors: Text processing at maximum speed and power_, 7th ed.  Sebastopol, CA: O'Reilly Media, 2008. Print.
+
+http://shop.oreilly.com/product/9780596529833.do
+
+vi is a standard UNIX text editor, and vim is it's modern incarnation.
+
+|===
+
+
+===== Configuration Management
+[cols="2*", frame="none"]
+|===
+| |  _Learning CFEngine 3_
+|===
+
+
+===== Databases
+[cols="2*", frame="none"]
+|===
+| |  _PostgreSQL: Up and Running_
+| |  _High Performance MySQL_
+| |  _PostgresSQL 9.0 High Performance_
+|===
+
+===== Programming Languages
+[cols="2*", frame="none"]
+|===
+| |  _Learning Perl_
+| |  _Automating System Administration with Perl_
+|===
+
+===== Etc.
+[cols="2*", frame="none"]
+|===
+| |  _DNS and Bind_
+| |  _Backup and Recovery_
+| |  _Sendmail_
+| |  _The Smallest Sendmail Book_
+|===
 
 === Microsoft Windows track
 
@@ -176,59 +255,7 @@ Literature describing norms or standards in the field of (Unix/Linux) system adm
   http://www.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/
 
 
-== Supplemental reading
-
-[cols="2*", frame="none"]
-|===
-| image:http://akamaicovers.oreilly.com/images/9780596529833/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/9780596529833.do"] | Robbins, Arnold, Elbert Hannah, Linda Lamb, and Linda Lamb. _Learning the vi and Vim Editors: Text processing at maximum speed and power_, 7th ed.  Sebastopol, CA: O'Reilly Media, 2008. Print.
-
-http://shop.oreilly.com/product/9780596529833.do
-
-vi is a standard UNIX text editor, and vim is it's modern incarnation.
-
-| image:$$http://ecx.images-amazon.com/images/I/41QM4SPEAAL._SX258_BO1,204,203,200_.jpg$$[height=150,width=125,link="http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X"] | Kernighan, Brian W., and Rob Pike. _The UNIX Programming Environment_. Englewood Cliffs, NJ: Prentice-Hall, 1984. Print.
-
-http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X
-
-Chapters 1 - 6 introduce a new user to UNIX.  If you want to make sure your fundamentals are fully in, go back to the source, the origin of UNIX.
-
-| |  _Learning Perl_
-| |  _DNS and Bind_
-| |  _Automating System Administration with Perl_
-| |  _Learning CFEngine 3_
-| |  _Backup and Recovery_
-| |  _PostgreSQL: Up and Running_
-| |  _High Performance MySQL_
-| |  _PostgresSQL 9.0 High Performance_
-| |  _Sendmail_
-| |  _The Smallest Sendmail Book_
-|===
-
 == Additional Resources
-
-=== Basic Training
-
-* "An Introduction to the Unix Shell" by S. Bourne, author of the Bourne shell (sh)
-http://steve-parker.org/sh/bourne.shtml
-
-* Steve Parker's shell scripting tutorial
-http://steve-parker.org/sh/sh.shtml
-
-* Unix Programming Environment 
-http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X
-
-* Linux for Dummies
-http://www.dummies.com/store/Computers-Internet/Operating-Systems/Linux.html
-
-* Linux Pocket Guide
-http://oreilly.com/catalog/9780596006280/
-
-* Learning the bash Shell
-http://oreilly.com/catalog/9780596009656/
-
-* Linux in a Nutshell (2009 edition)
-http://oreilly.com/catalog/9780596154486/
-
 
 === Advanced Study
 
