@@ -89,7 +89,7 @@ http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/dow
 
 Shotts, William. _The Linux Command Line: A Complete Introduction_ Second Edition, 2013.  http://linuxcommand.org
 
-A complete introduction to the Linux Command Line.  We have started to recommend this book instead of the dated "The UNIX Programming Environment". Available in PDF and dead tree versions.
+A complete introduction to the Linux Command Line.  We have started to recommend this book instead of the dated "The UNIX Programming Environment". Available in PDF and print versions.
 |===
 
 
@@ -101,8 +101,11 @@ A complete introduction to the Linux Command Line.  We have started to recommend
 
 "This is a comprehensive guide to the care and feeding of UNIX and Linux systems. The authors present the facts along with seasoned advice and real-world examples." -- Pat Parseghian
 
-
 | image:http://akamaicovers.oreilly.com/images/9780596003432/cat.gif[height=150,width=125,link="http://oreilly.com/catalog/9780596003432"] | Frisch, &AElig;leen. _Essential System Administration_, 3rd ed. Beijing: O'Reilly, 2002. Print.
+
+| image:http://www.freebsdmall.com/images/bp/bsdhandbk3.2.gif[height=150,width=125,link="http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html"] | The FreeBSD Documentation Project, http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html[_The FreeBSD Handbook_] Online: 2013.
+
+| image:http://media.wiley.com/product_data/coverImage300/80/04703854/0470385480.jpg[[height=150,width=125,link="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470385480.html"] | Solter, Nicholas A., Jerry Jelinek, David Miner. _OpenSolaris Bible_ Hoboken, NJ: Wiley, 2009.
 |===
 
 
@@ -227,7 +230,7 @@ Soft skills:: Working with people. This includes communication (including writin
 
 * _Time Management for System Administrators_ by Tom Limoncelli
 * _A Sysadmin's Guide to Navigating the Business World_ by Burgess and Rowland, USENIX Short Topics on Systems Administration, 2010 (ISBN 978-1-931971-81-2)
-* http://www.opsschool.org/en/latest/soft_skills_101.html
+* http://www.opsschool.org/en/latest/soft_skills_101.html[OpsSchool "Soft Skills" page]
 
 
 == Normative literature
@@ -235,7 +238,7 @@ Soft skills:: Working with people. This includes communication (including writin
 Literature describing norms or standards in the field of (Unix/Linux) system administration:
 
 * "The Limoncelli Test: 32 Questions for Your Sysadmin Team" (29 July 2011)
-  Tom Limoncelli
+  Tom Limoncelli +
   http://everythingsysadmin.com/the-test.html
   http://www.opsreportcard.com/
 
@@ -246,12 +249,12 @@ Literature describing norms or standards in the field of (Unix/Linux) system adm
   https://www.usenix.org/lisa/books
 
 * SA-BOK by Geoff Halprin (1997)
-  http://www.sysadmin.com.au/sa-bok.html
-  http://www.sysadmin.com.au/sa-bok/sa-bok-0500.pdf
+  http://www.sysadmin.com.au/sa-bok.html +
+  http://www.sysadmin.com.au/sa-bok/sa-bok-0500.pdf +
   http://www.sysadmin.com.au/sa-bok/disciplines.pdf
 
 * "On Designing and Deploying Internet-Scale Services"
-  James Hamilton 
+  James Hamilton +
   http://www.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/
 
 
@@ -259,44 +262,48 @@ Literature describing norms or standards in the field of (Unix/Linux) system adm
 
 === Advanced Study
 
-* "Computer Immunology" paper by Mark Burgess
+* Burgess, Mark. _Computer Immunology_  http://static.usenix.org/event/lisa98/full_papers/burgess/burgess.pdf (1998)
+
+* Burgess, Mark. _On the Theory of System Administration_  http://markburgess.org/papers/sysadmtheory3.pdf (2003)
 
 * http://www.elsevier.com/wps/find/bookdescription.cws_home/713461/descrip["Handbook of Network and System Administration", Edited by Jan Bergstra and Mark Burgess. November 2007.]
 
-* http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO[_In Search of Certainty_ by Mark Burgess (2013)]
+* Burgess, Mark. http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO[_In Search of Certainty_] 
 
-* "Analytical Network and System Administration" by Mark Burgess.  This is a super advanced text. https://github.com/markburgess/ANSA[Exercises for "Analytical Network and System Administration"]
+* Burgess, Mark. _Analytical Network and System Administration_. This is a very advanced text.
 
-* image:http://akamaicovers.oreilly.com/images/0636920025986/cat.gif[height=150,width=125,link="http://akamaicovers.oreilly.com/images/0636920025986/cat.gif"]  http://shop.oreilly.com/product/0636920025986.do[Slawek, Ligus. _Effective Monitoring and Alerting: For Web Operations_]
+* Burgess, Mark. https://github.com/markburgess/ANSA[_Exercises for Analytical Network and System Administration_]. 
 
-* _Scalable internet architectures_ by Theo Schlossnagle
+* image:http://akamaicovers.oreilly.com/images/0636920025986/cat.gif[height=150,width=125,link="http://akamaicovers.oreilly.com/images/0636920025986/cat.gif"] 
+Slawek, Ligus. http://shop.oreilly.com/product/0636920025986.do[_Effective Monitoring and Alerting: For Web Operations_] O'Reilly
 
-* image:http://akamaicovers.oreilly.com/images/0636920000136/cat.gif[height=150,width=125,link="http://akamaicovers.oreilly.com/images/0636920000136/cat.gif"]
-_Web Operations: Keeping the Data On Time_
-John Allspaw, Jesse Robbins
-http://shop.oreilly.com/product/0636920000136.do
+* Schlossnagle, Theo. http://omniti.com/writes/scalable-internet-architectures[_Scalable Internet Architectures_] Sams Publishing, 2006. Print.
 
-* http://www.usenix.org/multimedia/lisa10moskowitz/[Moskowitz, Adam. (2010). _The Path to Senior Sysadmin._]
+* image:http://akamaicovers.oreilly.com/images/0636920000136/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/0636920000136.do"]
+Allspaw, John and Jesse Robbins. http://shop.oreilly.com/product/0636920000136.do[_Web Operations: Keeping the Data On Time_] O'Reilly, 2010. Print.
 
-* http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098[_Systems Performance: Enterprise and the Cloud_ by Brendan Gregg]
+* Moskowitz, Adam. http://www.usenix.org/multimedia/lisa10moskowitz/["The Path to Senior Sysadmin"] talk. USENIX LISA Conference, 2010.
+
+* Gregg, Brendan. http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098[_Systems Performance: Enterprise and the Cloud_]
 
 * http://brendangregg.com/books.html[Brendan Gregg's Recommended Reading list]
 
-* http://itrevolution.com/books/phoenix-project-devops-book/[Kim, Gene, Kevin Behr, and George Spafford. _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_. Portland, OR: IT Revolution, 2013. Print.]
+* Kim, Gene, Kevin Behr, and George Spafford. http://itrevolution.com/books/phoenix-project-devops-book/[_The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_]. Portland, OR: IT Revolution, 2013. Print.
 
-* "Computer Networking: A Top Down Approach" by Kurose and Ross
+* Kim, Gene, Paul Love and George Spafford. http://www.itpi.org/visible-ops-security-review.html[_Visible Ops Security_] IT Process Institute, 2008. Print.
 
-* "Visible Ops Handbook" 
+* Behr, Kevin, Gene Kim, and George Spafford. http://itpi.3dcartstores.com/Electronic-Download-The-Visible-Ops-Handbook_p_25.html[_Visible Ops Handbook_] IT Process Institute, 2005. Print.
 
-* "Visible Ops Security"
+* Kurose, James F. and Keith W. Ross. http://www.pearsonhighered.com/educator/academic/product/0,3110,0136079679,00.html[_Computer Networking: A Top Down Approach_] 5th Ed. Pearson, 2010. Print.
 
-* "Errors of Observation and their Treatment" by Topping
+* Topping.  _Errors of Observation and their Treatment_
 
-* http://yourdon.com/strucanalysis/ "Just Enough Structured Analysis" by Ed Yourdon - a basic systems engineering text
+* Yourdon, Ed. http://yourdon.com/strucanalysis/[_Just Enough Structured Analysis_] - a basic systems engineering text
 
 * ?? Need something for troubleshooting ??
 
 === Organizations and Other Resources for Maturing System Administration
+
 * http://www.lopsa.org[League of Professional System Administrators]
 * http://www.opsschool.org[Ops School]
 * http://http://www.reddit.com/r/sysadmin/wiki/index[Reddit /r/sysadmin Wiki]
