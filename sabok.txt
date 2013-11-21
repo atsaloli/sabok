@@ -237,36 +237,35 @@ http://oreilly.com/catalog/9780596154486/
 
 * http://www.elsevier.com/wps/find/bookdescription.cws_home/713461/descrip["Handbook of Network and System Administration", Edited by Jan Bergstra and Mark Burgess. November 2007.]
 
-* http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO[_In Search of Certainty_ by Mark Burgess (2013)]
+* Burgess, Mark. http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO[_In Search of Certainty_] 
 
-* "Analytical Network and System Administration" by Mark Burgess.  This is a very advanced text. https://github.com/markburgess/ANSA[Exercises for "Analytical Network and System Administration"]
+* Burgess, Mark. https://github.com/markburgess/ANSA[_Analytical Network and System Administration_]. Online. This is a very advanced text.
 
-* image:http://akamaicovers.oreilly.com/images/0636920025986/cat.gif[height=150,width=125,link="http://akamaicovers.oreilly.com/images/0636920025986/cat.gif"]  http://shop.oreilly.com/product/0636920025986.do[Slawek, Ligus. _Effective Monitoring and Alerting: For Web Operations_]
+* image:http://akamaicovers.oreilly.com/images/0636920025986/cat.gif[height=150,width=125,link="http://akamaicovers.oreilly.com/images/0636920025986/cat.gif"] 
+Slawek, Ligus. http://shop.oreilly.com/product/0636920025986.do[_Effective Monitoring and Alerting: For Web Operations_] O'Reilly
 
-* _Scalable internet architectures_ by Theo Schlossnagle
+* Schlossnagle, Theo. http://omniti.com/writes/scalable-internet-architectures[_Scalable Internet Architectures_] Sams Publishing, 2006. Print.
 
-* image:http://akamaicovers.oreilly.com/images/0636920000136/cat.gif[height=150,width=125,link="http://akamaicovers.oreilly.com/images/0636920000136/cat.gif"]
-_Web Operations: Keeping the Data On Time_
-John Allspaw, Jesse Robbins
-http://shop.oreilly.com/product/0636920000136.do
+* image:http://akamaicovers.oreilly.com/images/0636920000136/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/0636920000136.do"]
+Allspaw, John and Jesse Robbins. http://shop.oreilly.com/product/0636920000136.do[_Web Operations: Keeping the Data On Time_] O'Reilly, 2010. Print.
 
-* http://www.usenix.org/multimedia/lisa10moskowitz/[Moskowitz, Adam. (2010). "The Path to Senior Sysadmin" talk.]
+* Moskowitz, Adam. http://www.usenix.org/multimedia/lisa10moskowitz/["The Path to Senior Sysadmin"] talk. USENIX LISA Conference, 2010.
 
-* http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098[_Systems Performance: Enterprise and the Cloud_ by Brendan Gregg]
+* Gregg, Brendan. http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098[_Systems Performance: Enterprise and the Cloud_]
 
 * http://brendangregg.com/books.html[Brendan Gregg's Recommended Reading list]
 
-* http://itrevolution.com/books/phoenix-project-devops-book/[Kim, Gene, Kevin Behr, and George Spafford. _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_. Portland, OR: IT Revolution, 2013. Print.]
+* Kim, Gene, Kevin Behr, and George Spafford. http://itrevolution.com/books/phoenix-project-devops-book/[_The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_]. Portland, OR: IT Revolution, 2013. Print.
 
-* "_Computer Networking: A Top Down Approach_" by Kurose and Ross
+* Kim, Gene, Paul Love and George Spafford. http://www.itpi.org/visible-ops-security-review.html[_Visible Ops Security_] IT Process Institute, 2008. Print.
 
-* "_Visible Ops Handbook_" 
+* Behr, Kevin, Gene Kim, and George Spafford. http://itpi.3dcartstores.com/Electronic-Download-The-Visible-Ops-Handbook_p_25.html[_Visible Ops Handbook_] IT Process Institute, 2005. Print.
 
-* "_Visible Ops Security_"
+* Kurose, James F. and Keith W. Ross. http://www.pearsonhighered.com/educator/academic/product/0,3110,0136079679,00.html[_Computer Networking: A Top Down Approach_] 5th Ed. Pearson, 2010. Print.
 
 * "_Errors of Observation and their Treatment_" by Topping
 
-* http://yourdon.com/strucanalysis/["Just Enough Structured Analysis" by Ed Yourdon - a basic systems engineering text]
+* Yourdon, Ed. http://yourdon.com/strucanalysis/[_Just Enough Structured Analysis_] - a basic systems engineering text
 
 * ?? Need something for troubleshooting ??
 
