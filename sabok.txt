@@ -248,10 +248,7 @@ Literature describing norms or standards in the field of (Unix/Linux) system adm
 * Short Topics in System Administration
   https://www.usenix.org/lisa/books
 
-* SA-BOK by Geoff Halprin (1997)
-  http://www.sysadmin.com.au/sa-bok.html +
-  http://www.sysadmin.com.au/sa-bok/sa-bok-0500.pdf +
-  http://www.sysadmin.com.au/sa-bok/disciplines.pdf
+* http://sabok.org/sa-bok/[SA-BOK by Geoff Halprin (1997)]
 
 * "On Designing and Deploying Internet-Scale Services"
   James Hamilton +
