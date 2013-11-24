@@ -5,7 +5,8 @@
 * Anyone who wants to be a http://sabok.org/field.html[System Administrator],
 * Junior System Administrators who want to make sure their foundation is solid for advancement to more senior levels,
 * Intermediate/Advanced/Senior System Administrators advancing to more senior levels,
-* Trainers and Educators
+* Trainers and Educators of Systems Administration
+
 
 == Scope
 
@@ -101,11 +102,11 @@ A complete introduction to the Linux Command Line.  We have started to recommend
 
 "This is a comprehensive guide to the care and feeding of UNIX and Linux systems. The authors present the facts along with seasoned advice and real-world examples." -- Pat Parseghian
 
-| image:http://akamaicovers.oreilly.com/images/9780596003432/cat.gif[height=150,width=125,link="http://oreilly.com/catalog/9780596003432"] | Frisch, &AElig;leen. _Essential System Administration_, 3rd ed. Beijing: O'Reilly, 2002. Print.
+| image:http://akamaicovers.oreilly.com/images/9780596003432/cat.gif[height=150,width=125,link="http://oreilly.com/catalog/9780596003432"] | Frisch, &AElig;leen. _Essential System Administration_, 3rd ed. Sebastopol, CA: O'Reilly, 2002. Print.
 
 | image:http://www.freebsdmall.com/images/bp/bsdhandbk3.2.gif[height=150,width=125,link="http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html"] | The FreeBSD Documentation Project, http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html[_The FreeBSD Handbook_] Online: 2013.
 
-| image:http://media.wiley.com/product_data/coverImage300/80/04703854/0470385480.jpg[[height=150,width=125,link="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470385480.html"] | Solter, Nicholas A., Jerry Jelinek, David Miner. _OpenSolaris Bible_ Hoboken, NJ: Wiley, 2009.
+| image:http://media.wiley.com/product_data/coverImage300/80/04703854/0470385480.jpg[height=150,width=125,link="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470385480.html"] | Solter, Nicholas A., Jerry Jelinek, David Miner. _OpenSolaris Bible_ Hoboken, NJ: Wiley, 2009.
 |===
 
 
@@ -141,17 +142,19 @@ http://oreilly.com/catalog/9780596154486/
 
 http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X
 
-Chapters 1 - 6 introduce a new user to UNIX.  If you want to make sure your fundamentals are fully in, go back to the source, the origin of UNIX.
+Chapters 1 - 6 introduce a new user to UNIX.  If you want to make sure your fundamentals are fully established, go back to the source, the origin of UNIX.
 |===
 
-===== Editors
+===== Text Editors
 [cols="2*", frame="none"]
 |===
 | image:http://akamaicovers.oreilly.com/images/9780596529833/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/9780596529833.do"] | Robbins, Arnold, Elbert Hannah, Linda Lamb, and Linda Lamb. _Learning the vi and Vim Editors: Text processing at maximum speed and power_, 7th ed.  Sebastopol, CA: O'Reilly Media, 2008. Print.
 
-http://shop.oreilly.com/product/9780596529833.do
++vi+ is a standard UNIX text editor, and +vim+ is it's modern incarnation.
 
-vi is a standard UNIX text editor, and vim is it's modern incarnation.
+| | Stallman, Richard, et al. http://www.gnu.org/software/emacs/manual/pdf/emacs.pdf[GNU Emacs Manual]. Boston: Free Software Foundation, 2013. Online.
+
+GNU Emacs is the "the extensible, customizable, self-documenting, real-time display editor."
 
 |===
 
@@ -159,7 +162,7 @@ vi is a standard UNIX text editor, and vim is it's modern incarnation.
 ===== Configuration Management
 [cols="2*", frame="none"]
 |===
-| |  _Learning CFEngine 3_
+| image:http://akamaicovers.oreilly.com/images/0636920022022/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/0636920022022.do"] | Zamboni, Diego. _Learning CFEngine 3_. Sebastopol, CA: O'Reilly, 2012.
 |===
 
 
@@ -176,6 +179,8 @@ vi is a standard UNIX text editor, and vim is it's modern incarnation.
 |===
 | |  _Learning Perl_
 | |  _Automating System Administration with Perl_
+| |  _Learning Python_
+| |  _Programming Python_
 |===
 
 ===== Etc.
@@ -190,7 +195,12 @@ vi is a standard UNIX text editor, and vim is it's modern incarnation.
 === Microsoft Windows track
 
 ==== Windows Server
-_TBD_
+
+[cols="2*", frame="none"]
+|===
+| image:http://akamaicovers.oreilly.com/images/0790145369741/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/0790145369741.do"] | Tulloch, Mitch. _Training Guide: Installing and Configuring Windows Server 2012_. Redmond, WA: Microsoft Press, 2012.
+| image:images/WinSvr2012PocketCons.jpg[height=150,width=125,link="http://www.amazon.com/gp/product/0735666334"] | Stanek, William R. http://www.amazon.com/gp/product/0735666334[_Windows Server 2012 Pocket Consultant_]. Redmond, WA: Microsoft Press, 2012.
+|===
 
 ==== Active Directory
 
@@ -245,7 +255,7 @@ Literature describing norms or standards in the field of (Unix/Linux) system adm
 * RFC 1178 "Choosing a Name for Your Computer"
   http://www.faqs.org/rfcs/rfc1178.html
 
-* Short Topics in System Administration
+* USENIX LISA Short Topics in System Administration
   https://www.usenix.org/lisa/books
 
 * http://sabok.org/sa-bok/[SA-BOK by Geoff Halprin (1997)]
@@ -272,12 +282,12 @@ Literature describing norms or standards in the field of (Unix/Linux) system adm
 * Burgess, Mark. https://github.com/markburgess/ANSA[_Exercises for Analytical Network and System Administration_]. 
 
 * image:http://akamaicovers.oreilly.com/images/0636920025986/cat.gif[height=150,width=125,link="http://akamaicovers.oreilly.com/images/0636920025986/cat.gif"] 
-Slawek, Ligus. http://shop.oreilly.com/product/0636920025986.do[_Effective Monitoring and Alerting: For Web Operations_] O'Reilly
+Slawek, Ligus. http://shop.oreilly.com/product/0636920025986.do[_Effective Monitoring and Alerting: For Web Operations_] Sebastopol, CA: O'Reilly
 
 * Schlossnagle, Theo. http://omniti.com/writes/scalable-internet-architectures[_Scalable Internet Architectures_] Sams Publishing, 2006. Print.
 
 * image:http://akamaicovers.oreilly.com/images/0636920000136/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/0636920000136.do"]
-Allspaw, John and Jesse Robbins. http://shop.oreilly.com/product/0636920000136.do[_Web Operations: Keeping the Data On Time_] O'Reilly, 2010. Print.
+Allspaw, John and Jesse Robbins. http://shop.oreilly.com/product/0636920000136.do[_Web Operations: Keeping the Data On Time_] Sebastopol, CA: O'Reilly, 2010. Print.
 
 * Moskowitz, Adam. http://www.usenix.org/multimedia/lisa10moskowitz/["The Path to Senior Sysadmin"] talk. USENIX LISA Conference, 2010.
 
