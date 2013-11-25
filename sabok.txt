@@ -247,22 +247,16 @@ Soft skills:: Working with people. This includes communication (including writin
 
 Literature describing norms or standards in the field of (Unix/Linux) system administration:
 
-* "The Limoncelli Test: 32 Questions for Your Sysadmin Team" (29 July 2011)
-  Tom Limoncelli +
-  http://everythingsysadmin.com/the-test.html
-  http://www.opsreportcard.com/
+* http://www.opsreportcard.com/[_Ops Report Card_ by Tom Limoncelli and Peter Grace.]
 
-* RFC 1178 "Choosing a Name for Your Computer"
-  http://www.faqs.org/rfcs/rfc1178.html
+* http://www.faqs.org/rfcs/rfc1178.html[RFC 1178 _Choosing a Name for Your Computer_]
 
 * USENIX LISA Short Topics in System Administration
   https://www.usenix.org/lisa/books
 
-* http://sabok.org/sa-bok/[SA-BOK by Geoff Halprin (1997)]
+* http://sabok.org/sa-bok/[SA-BOK by Geoff Halprin (1999)]
 
-* "On Designing and Deploying Internet-Scale Services"
-  James Hamilton +
-  http://www.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/
+* http://www.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/[_On Designing and Deploying Internet-Scale Services_ by James Hamilton, LISA 1997 paper] This paper summarizes a set of best practices for designing and developing operations-friendly services.
 
 
 == Additional Resources

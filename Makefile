@@ -5,15 +5,15 @@ all: index sabok field
 
 index: 
 	${A2X} index.txt | \
-	remark ./xmllint.remark && \
+	remark ./asciidoc.remark && \
 	google-chrome index.html
 
 sabok: 
 	${A2X} sabok.txt | \
-	remark ./xmllint.remark && \
+	remark ./asciidoc.remark && \
 	google-chrome sabok.html
 
 field: 
 	${A2X} field.txt | \
-	remark ./xmllint.remark && \
+	remark ./asciidoc.remark && \
 	google-chrome field.html
