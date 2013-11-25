@@ -22,8 +22,10 @@ Comments welcome! Email the editors at feedback@sabok.org or join us in the Ops-
 
 == Adjacent/overlapping fields
 
-* Software Engineering
-* Systems Engineering
+* http://www.swebok.org[Software Engineering]
+* http://www.sebokwiki.org[Systems Engineering]
+* https://www.isc2.org/cbk/Default.aspx[Security]
+* http://www.pmi.org/PMBOK-Guide-and-Standards.aspx[Project Management]
 
 == Subfields and specialities
 
