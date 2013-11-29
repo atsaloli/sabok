@@ -18,6 +18,8 @@ http://sabok.org/cert.html[Industry Certificate Programs]
 
 http://ace.delos.com/taxongate[Ontology (work in progress)]
 
+http://sabok.org/associations.html[Professional Associations]
+
 http://sabok.org/maturing.html[Additional Web Resources related to Maturing System Administration]
 
 This web site was brought to you by the mailto:feedback@sabok.org[LOPSA Professional Content proto-Committee].  https://github.com/atsaloli/sabok/tree/gh-pages[Source]

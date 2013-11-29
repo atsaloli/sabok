@@ -27,3 +27,8 @@ maturing:
 	${A2X} maturing.txt | \
 	remark ./asciidoc.remark && \
 	google-chrome maturing.html
+
+associations: 
+	${A2X} associations.txt | \
+	remark ./asciidoc.remark && \
+	google-chrome associations.html

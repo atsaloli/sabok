@@ -1,8 +1,6 @@
 = Web Resources for Maturing System Administration
 
 * https://www.usenix.org/event/lisa99/invitedtalks/halprin.pdf[Maturing System Administration, 1999 presentation by Geoff Halprin]
-* http://www.lopsa.org[League of Professional System Administrators]
-* https://www.usenix.org/lisa[USENIX LISA SIG for Sysadmins]
 * http://www.opsschool.org[Ops School]
 * http://http://www.reddit.com/r/sysadmin/wiki/index[Reddit /r/sysadmin Wiki]
 * https://groups.google.com/forum/#!forum/ops-education[ops-education Google Group]
