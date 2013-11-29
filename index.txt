@@ -1,6 +1,6 @@
 = Guide to the Systems Admininistration Body of Knowledge
 
-http://sabok.org/field.html[What is System Administration? Sub-fields and adjacent fields.]
+http://sabok.org/field.html[What is Systems Administration? Sub-fields and adjacent fields.]
 
 http://sabok.org/sa-bok[Description of Professional Functions]
 
@@ -20,6 +20,6 @@ http://ace.delos.com/taxongate[Ontology (work in progress)]
 
 http://sabok.org/associations.html[Professional Associations]
 
-http://sabok.org/maturing.html[Additional Web Resources related to Maturing System Administration]
+http://sabok.org/maturing.html[Additional Web Resources related to Maturing Systems Administration]
 
 This web site was brought to you by the mailto:feedback@sabok.org[LOPSA Professional Content proto-Committee].  https://github.com/atsaloli/sabok/tree/gh-pages[Source]
