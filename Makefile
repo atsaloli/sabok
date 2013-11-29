@@ -1,6 +1,6 @@
 A2X=a2x -v -a toc-placement=manual -a toc2 -a theme=volnitsky -f xhtml --fop -d article 
 
-all: index sabok field certification
+all: index sabok field certification maturing
 
 
 index: 
@@ -22,3 +22,8 @@ certification:
 	${A2X} cert.txt | \
 	remark ./asciidoc.remark && \
 	google-chrome cert.html
+
+maturing: 
+	${A2X} maturing.txt | \
+	remark ./asciidoc.remark && \
+	google-chrome maturing.html

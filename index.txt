@@ -2,7 +2,7 @@
 
 http://sabok.org/field.html[What is System Administration? Sub-fields and adjacent fields.]
 
-http://sabok.org/sa-bok[Description of Professional Functions (SA-BOK, Geoff Halperin, 1999)]
+http://sabok.org/sa-bok[Description of Professional Functions]
 
 https://www.usenix.org/lisa/system-administrators-code-ethics[Code of Ethics]
 
@@ -10,10 +10,14 @@ http://sabok.org/sabok.html#_normative_literature_a_k_a_best_practices[Best Prac
 
 http://sabok.org/sabok.html[Reading List]
 
+https://sites.google.com/site/educatingsystemsfolks/home/techconferences[Conferences]
+
 https://sites.google.com/site/educatingsystemsfolks/home/university-programs[Academic Degree Programs]
 
 http://sabok.org/cert.html[Industry Certificate Programs]
 
-https://sites.google.com/site/educatingsystemsfolks/home/techconferences[Conferences]
+http://ace.delos.com/taxongate[Ontology (work in progress)]
 
-This web site was brought to you by the LOPSA Professional Content proto-Committee and https://github.com/atsaloli/sabok/tree/gh-pages[GitHub]
+http://sabok.org/maturing.html[Additional Web Resources related to Maturing System Administration]
+
+This web site was brought to you by the mailto:feedback@sabok.org[LOPSA Professional Content proto-Committee].  https://github.com/atsaloli/sabok/tree/gh-pages[Source]
