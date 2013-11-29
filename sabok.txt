@@ -48,7 +48,7 @@ Advance your knowledge by study from the *Advanced* list.
 
 === Fundamentals
 
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | image:http://media.wiley.com/product_data/coverImage300/74/04708680/0470868074.jpg[height=150,width=125,link="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470868074.html"] | Burgess, Mark. _Principles of Network and System Administration_. Hoboken, NJ: Wiley, 2004. Print.
 
@@ -68,7 +68,7 @@ http://everythingsysadmin.com/aboutbook.html
 
 === UNIX/Linux track
 ==== User Basics
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | image:http://media.wiley.com/product_data/coverImage300/92/11181067/1118106792.jpg[height=150,width=125,link="http://www.lpimarketplace.com/ProductDetails.asp?ProductCode=978-1-118-10679-2"] | Smith, Roderick W. _Linux Essentials_ Indianapolis, IN: Wiley, 2012. Print.
 
@@ -96,7 +96,7 @@ A complete introduction to the Linux Command Line.  We have started to recommend
 
 ==== System Administration
 
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | image:http://www.admin.com/img/Book.png[height=150,width=125,link="http://www.admin.com"] | Nemeth, Evi et al. _Unix and Linux System Administration Handbook_, 4th ed. Upper Saddle River, NJ: Prentice Hall, 2012. Print.
 
@@ -135,7 +135,7 @@ http://oreilly.com/catalog/9780596009656/
 * Linux in a Nutshell (2009 edition)
 http://oreilly.com/catalog/9780596154486/
 
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | image:$$http://ecx.images-amazon.com/images/I/41QM4SPEAAL._SX258_BO1,204,203,200_.jpg$$[height=150,width=125,link="http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X"] | Kernighan, Brian W., and Rob Pike. _The UNIX Programming Environment_. Englewood Cliffs, NJ: Prentice-Hall, 1984. Print.
 
@@ -146,7 +146,7 @@ Chapters 1 - 6 introduce a new user to UNIX.  If you want to make sure your fund
 |===
 
 ===== Text Editors
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | image:http://akamaicovers.oreilly.com/images/9780596529833/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/9780596529833.do"] | Robbins, Arnold, Elbert Hannah, Linda Lamb, and Linda Lamb. _Learning the vi and Vim Editors: Text processing at maximum speed and power_, 7th ed.  Sebastopol, CA: O'Reilly Media, 2008. Print.
 
@@ -160,14 +160,14 @@ GNU Emacs is the "the extensible, customizable, self-documenting, real-time disp
 
 
 ===== Configuration Management
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | image:http://akamaicovers.oreilly.com/images/0636920022022/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/0636920022022.do"] | Zamboni, Diego. _Learning CFEngine 3_. Sebastopol, CA: O'Reilly, 2012.
 |===
 
 
 ===== Databases
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | |  _PostgreSQL: Up and Running_
 | |  _High Performance MySQL_
@@ -175,7 +175,7 @@ GNU Emacs is the "the extensible, customizable, self-documenting, real-time disp
 |===
 
 ===== Programming Languages
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | |  _Learning Perl_
 | |  _Automating System Administration with Perl_
@@ -184,7 +184,7 @@ GNU Emacs is the "the extensible, customizable, self-documenting, real-time disp
 |===
 
 ===== Etc.
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | |  _DNS and Bind_
 | |  _Backup and Recovery_
@@ -196,7 +196,7 @@ GNU Emacs is the "the extensible, customizable, self-documenting, real-time disp
 
 ==== Windows Server
 
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | image:http://akamaicovers.oreilly.com/images/0790145369741/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/0790145369741.do"] | Tulloch, Mitch. _Training Guide: Installing and Configuring Windows Server 2012_. Redmond, WA: Microsoft Press, 2012.
 | image:images/WinSvr2012PocketCons.jpg[height=150,width=125,link="http://www.amazon.com/gp/product/0735666334"] | Stanek, William R. http://www.amazon.com/gp/product/0735666334[_Windows Server 2012 Pocket Consultant_]. Redmond, WA: Microsoft Press, 2012.
@@ -204,7 +204,7 @@ GNU Emacs is the "the extensible, customizable, self-documenting, real-time disp
 
 ==== Active Directory
 
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | image:http://akamaicovers.oreilly.com/images/0636920023913/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/0636920023913.do"] | Desmond, Brian; Joe Richards, Robbie Allen, Alistair Lowe-Norris. _Active Directory, 5th Edition_,  Sebastopol, CA: O'Reilly, 2013. Print. 
 
@@ -217,7 +217,7 @@ An older classic on AD, goes into the internals.
 
 ==== PowerShell (modern Windows command line)
 
-[cols="2*", frame="none"]
+[cols="2*", frame="none", grid="none"]
 |===
 | image:http://www.manning.com/jones3/jones3_cover150.jpg[height=150,width=125,link="http://www.manning.com/jones3/"] | Jones, Don and Jeffery Hicks. _Learn Windows PowerShell 3 in a Month of Lunches_,  Greenwich, CT: Manning, 2013. Print.
 
@@ -253,8 +253,198 @@ Literature describing norms or standards
 
 * http://www.faqs.org/rfcs/rfc1178.html[_RFC 1178: Choosing a Name for Your Computer_]
 
-* USENIX LISA Short Topics in System Administration
-  https://www.usenix.org/lisa/books
+* https://www.usenix.org/lisa/books[USENIX LISA Short Topics in System Administration]
+
+
+[cols="2*", frame="none", grid="none"]
+|===
+
+| image:https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/login/covers/26cfe3.jpg[link="https://www.usenix.org/lisa/books/modern-infrastructure-engineering-cfengine-3"] | https://www.usenix.org/lisa/books/modern-infrastructure-engineering-cfengine-3[_#26 Modern Infrastructure Engineering with CFEngine 3_]  +
+Mark Burgess and Diego Zamboni
+
+| image:https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/login/covers/25cover.png[link="http://www.usenix.org/lisa/books/enterprise-ipv6-deployment-experience-report-google"] | http://www.usenix.org/lisa/books/enterprise-ipv6-deployment-experience-report-google[_#25 Enterprise IPv6 Deployment: Experience Report from Google_]  +
+Haythum Babiker, Irena Nikolova, and Kiran Kumar Chittimaneni 
+|===
+
+////
+            <a href=""><img src="?itok=kZZ3DzzZ" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/enterprise-ipv6-deployment-experience-report-google">#25 Enterprise IPv6 Deployment: Experience Report from Google</a><br />Haythum Babiker, Irena Nikolova, and Kiran Kumar Chittimaneni          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/cloud-computing-vmware-vcloud-director"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/login/covers/cloudcover.jpg?itok=m7BjpsiU" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/cloud-computing-vmware-vcloud-director">#24 Cloud Computing with VMware vCloud Director</a><br />John Y. Arrasjid, Ben Lin, Raman Veeramraju, Steve Kaplan, Duncan Epping, and Michael Haines          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/sysadmins-guide-navigating-business-world"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/login/covers/23_shorttopics_cover_0.png?itok=0imZWKuw" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/sysadmins-guide-navigating-business-world">#23 A Sysadmin&#039;s Guide to Navigating the Business World</a><br />Mark Burgess and Carolyn Rowland          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/job-descriptions-system-administrators-3d-edition"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/login/covers/22_jobs3rd_cover_0.png?itok=fNpGPLcq" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/job-descriptions-system-administrators-3d-edition">#22 Job Descriptions for System Administrators, 3d Edition Revised</a><br />Tina Darmohray          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/foundation-cloud-computing-vmware-vsphere-4"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/21vsp.jpg?itok=U8MLO49r" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/foundation-cloud-computing-vmware-vsphere-4">#21 Foundation for Cloud Computing with VMware vSphere 4</a><br />John Arrasjid, Duncan Epping, and Steve Kaplan          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/running-numbers-system-network-and-environmental-monitoring"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/20mon.jpg?itok=TZelbM0n" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/running-numbers-system-network-and-environmental-monitoring">#20 Running the Numbers: System, Network, and Environmental Monitoring</a><br />Daniel V. Klein and John Sellens          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/configuration-management-bcfg2"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/19bcf.jpg?itok=KTydTrdi" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/configuration-management-bcfg2">#19 Configuration Management with Bcfg2</a><br />Narayan Desai and Cory Lueninghoener          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/deploying-vmware-infrastructure-second-printing"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/18vmw.jpg?itok=2CQbjZGn" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/deploying-vmware-infrastructure-second-printing">#18 Deploying the VMware Infrastructure, Second Printing</a><br />John Arrasjid, Karthik Balachandran, Daniel Conde, Gary Lamb, and Steve Kaplan          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/lcfg-practical-tool-system-configuration"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/17lcf.jpg?itok=uPNOBibP" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/lcfg-practical-tool-system-configuration">#17 LCFG: A Practical Tool for System Configuration</a><br />Paul Anderson          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/system-engineers-guide-host-configuration-and-maintenance-using-cfengine"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/16cfe.jpg?itok=nWiAxJ5Q" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/system-engineers-guide-host-configuration-and-maintenance-using-cfengine">#16 A System Engineer&#039;s Guide to Host Configuration and Maintenance Using Cfengine</a><br />Mark Burgess and Æleen Frisch          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/internet-postmaster-duties-and-responsibilities"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/15pos.jpg?itok=OROdsN8z" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/internet-postmaster-duties-and-responsibilities">#15 Internet Postmaster: Duties and Responsibilities</a><br />Nick Christenson and Brad Knowles          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/system-configuration"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/14con.jpg?itok=472eFV_o" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/system-configuration">#14 System Configuration</a><br />Paul Anderson          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/sysadmins-guide-oracle"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/13ora.jpg?itok=osRUIFSX" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/sysadmins-guide-oracle">#13 The Sysadmin&#039;s Guide to Oracle</a><br />Ben Rockwood          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/building-logging-infrastructure"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/12log.jpg?itok=sGy4dif9" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/building-logging-infrastructure">#12 Building a Logging Infrastructure</a><br />Abe Singer and Tina Bird          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/documentation-writing-system-administrators"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/11doc.jpg?itok=-tyVDTls" width="60" height="89" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/documentation-writing-system-administrators">#11 Documentation Writing for System Administrators</a><br />Mark C. Langston          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/budgeting-sysadmins"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/10bud.jpg?itok=zNM5gWhW" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/budgeting-sysadmins">#10 Budgeting for SysAdmins</a><br />Adam Moskowitz          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/backups-and-recovery"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/9bac.jpg?itok=htHtrZJ5" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/backups-and-recovery">#9 Backups and Recovery</a><br />W. Curtis Preston and Hal Skelly          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/system-and-network-administration-higher-reliability"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/7rel.jpg?itok=gidZaOPD" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/system-and-network-administration-higher-reliability">#7 System and Network Administration for Higher Reliability</a><br />John Sellens          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/system-administrators-guide-auditing"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/6aud.jpg?itok=7W1rMLoS" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/system-administrators-guide-auditing">#6 A System Administrator&#039;s Guide to Auditing</a><br />Geoff Halprin          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/hiring-system-administrators"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/5hir.jpg?itok=v_CFVH-D" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/hiring-system-administrators">#5 Hiring System Administrators</a><br />Gretchen Phillips          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/educating-and-training-system-administrators-survey"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/lisa/books-covers/4edu.jpg?itok=lLt7zANi" width="60" height="87" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/educating-and-training-system-administrators-survey">#4 Educating and Training System Administrators: A Survey</a><br />David Kuncicky and Bruce Alan Wynn          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd views-row-last">
+                  <td class="views-field views-field-field-login-cover" >
+            <a href="/lisa/books/guide-developing-computing-policy-documents"><img src="https://www.usenix.org/sites/default/files/styles/book_thumbnail/public/login/covers/2_shorttopicscover.png?itok=wzl2EK67" width="60" height="90" alt=`` /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lisa/books/guide-developing-computing-policy-documents">#2 A Guide to Developing Computing Policy Documents</a><br />Edited by Barbara L. Dijker          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+      </tbody>
+</table>
+
+////
 
 * http://www.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/[_On Designing and Deploying Internet-Scale Services_ by James Hamilton, LISA 1997 paper] This paper summarizes a set of best practices for designing and developing operations-friendly services.
 
