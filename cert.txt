@@ -1,0 +1,40 @@
+Certification
+=============
+
+There are two types of certification available today, vendor and vendor-neutral.
+
+Vendor
+------
+There are vendors who offer training and certification in their technologies.
+
+When tests are used to qualify practitioners prior to certification,
+the certificates carry more weight; but the value of certification
+in our sphere is still argued.
+
+The ability to rapidly assimilate and apply knowledge, to get things done,
+to keep services running and users and management happy - those are the
+ultimate test of a system administrator.
+
+Certification does not hurt.
+
+.Vendor certificate programs
+* Red Hat
+* HP-UX
+* Solaris
+* AIX
+* Cisco
+
+
+Vendor-neutral
+--------------
+There are non-profit organizations that administer tests and
+issue certificates.
+
+They test hard skills (like to how to setup a user account or mount a
+network file system), not soft skills (such as keeping a meeting
+on track when emotions get heated, or obtaining information from
+non-cooperative colleagues).
+
+.Vendor-neutral certificate programs
+* http://www.lpi.org[LPI]
+* http://www.bsdcertification.org/[BSD Certification Group]

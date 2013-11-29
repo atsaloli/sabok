@@ -1,6 +1,6 @@
 A2X=a2x -v -a toc-placement=manual -a toc2 -a theme=volnitsky -f xhtml --fop -d article 
 
-all: index sabok field
+all: index sabok field certification
 
 
 index: 
@@ -17,3 +17,8 @@ field:
 	${A2X} field.txt | \
 	remark ./asciidoc.remark && \
 	google-chrome field.html
+
+certification: 
+	${A2X} cert.txt | \
+	remark ./asciidoc.remark && \
+	google-chrome cert.html
