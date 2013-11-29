@@ -249,9 +249,9 @@ Literature describing norms or standards
 
 * http://www.opsreportcard.com/[_Ops Report Card_ by Tom Limoncelli and Peter Grace.]
 
-* http://sabok.org/sa-bok/["Site Assessment Checklist" in SA-BOK by Geoff Halprin (1999)]
+* http://sabok.org/sa-bok/[_The Systems Administration Site Assessment Checklist_ by Geoff Halprin]
 
-* http://www.faqs.org/rfcs/rfc1178.html[RFC 1178 _Choosing a Name for Your Computer_]
+* http://www.faqs.org/rfcs/rfc1178.html[_RFC 1178: Choosing a Name for Your Computer_]
 
 * USENIX LISA Short Topics in System Administration
   https://www.usenix.org/lisa/books
