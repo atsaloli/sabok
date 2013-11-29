@@ -6,6 +6,8 @@ http://sabok.org/sa-bok[Description of Professional Functions (SA-BOK, Geoff Hal
 
 https://www.usenix.org/lisa/system-administrators-code-ethics[Code of Ethics]
 
+http://sabok.org/sabok.html#_normative_literature_a_k_a_best_practices[Best Practices]
+
 http://sabok.org/sabok.html[Reading List]
 
 https://sites.google.com/site/educatingsystemsfolks/home/university-programs[Academic Degree Programs]
