@@ -17,8 +17,9 @@ _________________________________________________________________
 _________________________________________________________________
 
 
-Tasks performed by Systems Administrators:
-[quote,'http://static.usenix.org/publications/library/proceedings/lisa99/full_papers/anderson/anderson_html/index.html[_A Retrospective on Twelve Years of LISA Proceedings_, 1999, Eric Anderson and David Patterson]']
+Tasks performed by Systems Administrators (1999 model):
+
+[quote,'http://static.usenix.org/publications/library/proceedings/lisa99/full_papers/anderson/anderson_html/index.html[A Retrospective on Twelve Years of LISA Proceedings]']
 _________________________________________________________________
 * Services 
 ** Backup 
