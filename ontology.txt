@@ -1,0 +1,80 @@
+= Ontologies
+
+http://ace.delos.com/taxongate[_Sysadmin Book of Knowledge_] (Registration required)
+
+Top level categories from _Sysadmin Book of Knowledge_:
+
+[quote,'https://www-auth.cs.wisc.edu/lists/mad-sage/2002/msg00034.shtml[15 Nov 2002 report by David Parter on the Sysadmin Book of Knowledge]']
+_________________________________________________________________
+* General
+* SW
+* Data Center/Machine Room & Environment
+* People
+* Services
+* Networks/networking
+* User hardware (i.e., desktop hardware)
+* Data management
+_________________________________________________________________
+
+
+Tasks performed by Systems Administrators:
+[quote,'http://static.usenix.org/publications/library/proceedings/lisa99/full_papers/anderson/anderson_html/index.html[_A Retrospective on Twelve Years of LISA Proceedings_, 1999, Eric Anderson and David Patterson]']
+_________________________________________________________________
+* Services 
+** Backup 
+** Mail 
+** Printing 
+** News 
+** NFS 
+** Web 
+** DNS 
+** Database 
+* Software Installation 
+** Application Installation 
+** OS Installation 
+** User Customization 
+** Software Packaging 
+* Monitoring 
+** System Monitoring 
+** Resource Accounting 
+** Data Display 
+** Network Monitoring 
+** Benchmarking 
+** Configuration Discovery 
+** Host Monitoring 
+** Performance Tuning 
+* Configuration Management 
+** Site Configuration 
+** Host Configuration 
+** Site Move 
+** Fault Tolerance 
+* Miscellaneous 
+** Trouble Tickets 
+** Secure Root Access 
+** General Tool 
+** Security 
+** File Synchronization 
+** Remote Access 
+** File Migration 
+** Resource Cleanup 
+* User Management 
+** Accounts 
+** Documentation 
+** Policy 
+** User Interaction 
+** White Pages 
+* Networking 
+** Network Configuration 
+** LAN 
+** WAN 
+** Host Tables 
+* Improvement 
+** Self Improvement 
+** Models 
+** Software Design 
+** Training Administrators 
+_________________________________________________________________
+
+October 1999, Geoff Halprin, Disciplines:
+image:http://sabok.org/sa-bok/disciplines.pdf[]
+

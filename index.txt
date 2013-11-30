@@ -6,9 +6,7 @@ http://sabok.org/sa-bok[Description of Professional Functions]
 
 https://www.usenix.org/lisa/system-administrators-code-ethics[Code of Ethics]
 
-http://sabok.org/sabok.html#_normative_literature_a_k_a_best_practices[Best Practices]
-
-http://sabok.org/sabok.html[Reading List]
+http://sabok.org/sabok.html[Reading List (including Best Practices)]
 
 https://sites.google.com/site/educatingsystemsfolks/home/techconferences[Conferences]
 
@@ -16,7 +14,7 @@ https://sites.google.com/site/educatingsystemsfolks/home/university-programs[Aca
 
 http://sabok.org/cert.html[Industry Certificate Programs]
 
-http://ace.delos.com/taxongate[Ontology (work in progress)]
+http://sabok.org/ontology.html[Ontologies]
 
 http://sabok.org/associations.html[Professional Associations]
 

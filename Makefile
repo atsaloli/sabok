@@ -32,3 +32,8 @@ associations:
 	${A2X} associations.txt | \
 	remark ./asciidoc.remark && \
 	google-chrome associations.html
+
+ontology: 
+	${A2X} ontology.txt | \
+	remark ./asciidoc.remark && \
+	google-chrome ontology.html
