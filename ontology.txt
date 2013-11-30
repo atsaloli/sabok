@@ -76,7 +76,7 @@ _________________________________________________________________
 _________________________________________________________________
 
 October 1999, Geoff Halprin, Disciplines:
-image:http://sabok.org/sa-bok/disciplines.pdf[]
+image:http://sabok.org/sa-bok/disciplines.png[]
 
 
 See also www.opsschool.org
