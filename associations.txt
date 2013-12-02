@@ -1,4 +1,5 @@
 = Professional Associations
 
-* http://www.lopsa.org[League of Professional System Administrators]
-* https://www.usenix.org/lisa[USENIX LISA SIG for Sysadmins]
+* http://www.lopsa.org[LOPSA] - League of Professional System Administrators
+* https://www.usenix.org/lisa[LISA] - USENIX SIG for Sysadmins (formerly known as SAGE, System Administrators Guild)
+* https://www.sage-au.org.au[SAGE-AU] - professional association aimed at sysadmins in Australia
