@@ -41,9 +41,7 @@ literature - publications that lay out the norms of the field,
 or what is generally agreed upon (i.e. best practices). 
 Norms and standards are essential for professionalization.
 
-You can add to your Core Knowledge with selections from the *Supplemental* list.
-
-Advance your knowledge by study from the *Advanced* list.
+Advance your knowledge using the *Advanced Study* list.
 
 
 == Core
@@ -335,9 +333,7 @@ Haythum Babiker, Irena Nikolova, and Kiran Kumar Chittimaneni
 |===
 
 
-== Additional Resources
-
-=== Advanced Study
+== Advanced Study
 
 * Burgess, Mark. _Computer Immunology_  http://static.usenix.org/event/lisa98/full_papers/burgess/burgess.pdf (1998)
 
