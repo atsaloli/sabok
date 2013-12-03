@@ -50,7 +50,7 @@ Advance your knowledge using the *Advanced Study* list.
 
 [cols="2*", frame="none", grid="none"]
 |===
-| image:http://media.wiley.com/product_data/coverImage300/74/04708680/0470868074.jpg[height=150,width=125,link="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470868074.html"] | Burgess, Mark. http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470868074.html[_Principles of Network and System Administration_]. Hoboken, NJ: Wiley, 2004. Print.
+| image:http://media.wiley.com/product_data/coverImage300/74/04708680/0470868074.jpg[height=150,width=125,link="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470868074.html"] | Burgess, Mark. http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470868074.html[_Principles of Network and System Administration_, 2nd ed.]. Hoboken, NJ: Wiley, 2004. Print.
 
 ISBN-13: 978-0-470-86807-2
 
