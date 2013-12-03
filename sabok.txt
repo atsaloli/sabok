@@ -20,7 +20,9 @@ to practice.
 
 == Acknowledgedments
 
-Thanks for help in compiling this list to Jonah Sinowitz, Eric Sorenson, Mark Burgess, Shahab Shawn Sheikhzadeh, Willard Dennis, Kyrre Begnum, david t. klein, Avleen Vig.
+Thanks for help in compiling this list to:
+Jonah Sinowitz, Eric Sorenson, Mark Burgess, Shahab Shawn Sheikhzadeh, Willard Dennis, Kyrre Begnum, david t. klein, Avleen Vig, William van Hevelingen.
+
 
 
 == Feedback
