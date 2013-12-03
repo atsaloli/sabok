@@ -1,6 +1,6 @@
 A2X=a2x -v -a toc-placement=manual -a toc2 -a theme=volnitsky -f xhtml --fop -d article 
 
-all: index sabok field certification maturing
+all: index sabok field certification maturing associations ontology intro
 
 
 index: 
@@ -37,3 +37,7 @@ ontology:
 	${A2X} ontology.txt | \
 	remark ./asciidoc.remark && \
 	google-chrome ontology.html
+
+intro: 
+	pandoc -o intro.html intro.md && \
+	google-chrome intro.html
