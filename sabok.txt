@@ -163,6 +163,7 @@ GNU Emacs is the "the extensible, customizable, self-documenting, real-time disp
 [cols="2*", frame="none", grid="none"]
 |===
 | image:http://akamaicovers.oreilly.com/images/0636920022022/cat.gif[height=150,width=125,link="http://shop.oreilly.com/product/0636920022022.do"] | Zamboni, Diego. _Learning CFEngine 3_. Sebastopol, CA: O'Reilly, 2012.
+| image:http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430260400-small.png[height=150,width=125,link="http://www.apress.com/9781430260400"] | Krum, Van Hevelingen, Kero, Turnbull, McCune. _Pro Puppet_. New York, NY: Apress, 2013.
 |===
 
 
