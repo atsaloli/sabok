@@ -2,7 +2,7 @@
 
 http://sabok.org/intro.html[Introduction]
 
-http://sabok.org/field.html[What is Systems Administration? Sub-fields and adjacent fields.]
+http://sabok.org/field.html[What is Systems Administration? Boundaries of the field, sub-fields and adjacent fields.]
 
 http://sabok.org/sa-bok[Description of Professional Functions]
 
