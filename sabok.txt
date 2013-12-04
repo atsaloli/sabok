@@ -54,7 +54,9 @@ Advance your knowledge using the *Advanced Study* list.
 
 ISBN-13: 978-0-470-86807-2
 
-This is a introductory college text, written by the creator of a well-known configuration management tool (CFEngine) while he was teaching Systems Administration at Oslo University College in Oslo, Norway.
+http://markburgess.org/principlebook.html#errata[Errata]
+
+This is a introductory college text, written by the creator of a well-known configuration management tool (CFEngine) while he was teaching Systems Administration at Oslo University College in Norway.
 
 | image:http://www.pearson.ch/bild.aspx?id=9780321492661.jpg[height=150,width=125,link="http://everythingsysadmin.com/aboutbook.html"] | Limoncelli, Thomas A., Christine Hogan, and Strata R. Chalup. _The Practice of System and Network Administration_, 2nd ed.  Harlow: Addison-Wesley, 2007. Print. 
 
