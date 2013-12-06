@@ -10,15 +10,15 @@ Comments welcome! Email the editors at feedback@sabok.org or join us in the Ops-
 
 == What is System Administration?
 
-* http://www.bls.gov/oco/ocos305.htm#nature
-  US Department of Labor, Bureau of Labor Statistics, Occupational Outlook K Handbook 
+* http://www.usenix.org/lisa/books/job-descriptions-system-administrators-3d-edition[_#22 Job Descriptions for System Administrators, 3d Edition Revised_] by Tina Darmohray
 
-* http://en.wikipedia.org/wiki/System_administrator
+* http://www.bls.gov/oco/ocos305.htm#nature[US Department of Labor, Bureau of Labor Statistics, _Occupational Outlook K Handbook_]
 
-* http://www.sysadminday.com/ - a description of some typical sysadmin duties.
+* http://en.wikipedia.org/wiki/System_administrator[Wikipedia entry for System_administrator]
 
-* http://www.taos.com/Newsletter/Mar%2011/Taos-Duality_final.pdf
-  Nicole F. Velasquez describes how a sysadmin interfaces between business and tech worlds
+* http://www.sysadminday.com/[Description of some typical sysadmin duties from SysAdminDay.com]
+
+* http://www.taos.com/Newsletter/Mar%2011/Taos-Duality_final.pdf[Nicole F. Velasquez describes how a sysadmin interfaces between business and tech worlds]
 
 == Adjacent/overlapping fields
 
@@ -35,3 +35,6 @@ Comments welcome! Email the editors at feedback@sabok.org or join us in the Ops-
 * Database administration
 * Middleware / Application server administration
 * Web Operations
+
+
+This is a work in progress, contributions welcome!
