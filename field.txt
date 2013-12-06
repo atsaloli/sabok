@@ -3,6 +3,12 @@
 == Scope
 Describe system administation, the boundaries of the field of system administation, and what fields are adjacent.
 
+== Acknowledgements
+
+Thank you for contributing!
+
+leam hall
+
 == Feedback
 
 Comments welcome! Email the editors at feedback@sabok.org or join us in the Ops-Education Google Group.
