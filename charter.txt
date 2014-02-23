@@ -1,57 +1,93 @@
-PURPOSE: To ensure sufficient quantity of competent sysadmins
-exists to support a stable civilization; to bring about
-greater agreement on what makes a competent sysadmin and how
-to make one, the LOPSA zeroth Working Committee on Professionalization 
-will recommend to the Board a definition of what 'profession'
-means in the context of Systems Administration.  This would
-enable a gap analysis (where do we want to be; where are we
-now; what do we need to do to get from where we are now to
-where we want to be); however the gap analysis or the implementation
-of the remediation plan would be outside the scope of this working 
-committee.  We envision that with the success of the zeroth
-working committee, subsequent working committees would advance
-the purpose further, one bite at a time.
+Charter
+=======
+
+PURPOSE
+-------
+
+To ensure sufficient quantity of competent sysadmins exists to
+support a stable civilization; to bring about greater agreement
+on what makes a competent sysadmin and how to make one, the LOPSA
+zeroth Working Committee on Professionalization will recommend to
+the Board a definition of what 'profession' means in the context
+of Systems Administration.
+
+This would enable a gap analysis (where do we want to be; where are
+we now; what do we need to do to get from where we are now to where
+we want to be); however the gap analysis or the implementation of
+the remediation plan would be outside the scope of this working
+committee. We envision that with the success of the zeroth working
+committee, subsequent working committees would advance the purpose
+further, one bite at a time.
 
 The LOPSA Board of Directors shall appoint a current LOPSA member in
 good standing to be the Professionalization Committee Chair. If the
-Professionalization Chair is not a current member of the LOPSA Board of
-Directors, a liaison shall be appointed to the Professionalization
+Professionalization Chair is not a current member of the LOPSA Board
+of Directors, a liaison shall be appointed to the Professionalization
 Committee from among the current LOPSA Board of Directors. The
-Professionalization Chair shall then select other committee members from
-the community at will and as needed, an an ongoing basis.
+Professionalization Chair shall then select other committee members
+from the community at will and as needed, an an ongoing basis.
 
-The Professionalization Committee shall conduct its work by evaluating
-various definitions of 'profession', as well as standards required
-by equivalent associations in other professions.  An outside expert
-on professions and professionalization may be consulted. 
+The Professionalization Committee shall conduct its work by
+evaluating various definitions of 'profession', as well as standards
+required by equivalent associations in other professions. An outside
+expert on professions and professionalization may be consulted.
 
-TIMELINE: The Professionalization Committee shall present definition
-of "Profession" to the LOPSA Board of Directors no later than
-June 30th, 2014. If the LOPSA Board of Directors chooses to reject
-the proposed definition, immediate notice shall be given to the
-Professionalization Chair following the decision, and the
+TIMELINE
+--------
+
+The Professionalization Committee shall present definition of
+"Profession" to the LOPSA Board of Directors no later than June
+30th, 2014. If the LOPSA Board of Directors chooses to reject
+the proposed definition, immediate notice shall be given to
+the Professionalization Chair following the decision, and the
 Professionalization Committee shall repeat the process of drafting
-and re-presenting the definition by October 31st, 2014.
-If the LOPSA Board of Directors rejects the revised 
-proposal, the working committee shall be disbanded.
+and re-presenting the definition by October 31st, 2014. If the
+LOPSA Board of Directors rejects the revised proposal, the working
+committee shall be disbanded.
 
-If the LOPSA Board of Directors accepts the definition, this definition
-shall be communicated to the LOPSA membership at large no later than 
-December 31st, 2014, and the working Committee dismissed
-with thanks. The Board may then plan a roadmap for continuing work on
-the furtherance of this project, and direct that a new Committee to
-continue the work is formed and so empowered, on a time schedule
+If the LOPSA Board of Directors accepts the definition, this
+definition shall be communicated to the LOPSA membership at large no
+later than December 31st, 2014, and the working Committee dismissed
+with thanks. The Board may then plan a roadmap for continuing work
+on the furtherance of this project, and direct that a new Committee
+to continue the work is formed and so empowered, on a time schedule
 acceptable to the Board.
 
 TIMELINE SUMMARY
+----------------
 
-30 Jun 2014 - present definition of "Profession" as pertaining to 
-              System Administration
+30 Jun 2014 - present definition of "Profession" as pertaining
+              to System Administration
 31 Oct 2014 - re-present definition of "Profession" if needed
 31 Dec 2014 - publish the definition
 
-The Professionalization Chair will be responsible for communicating all
-relevant needs to the LOPSA Board of Directors, through the liaison if
-such a position exists. This includes, but is not limited to, technical,
-financial, or marketing requirements, unless an alternative
-communication channel is sanctioned and available.
+The Professionalization Chair will be responsible for communicating
+all relevant needs to the LOPSA Board of Directors, through the
+liaison if such a position exists. This includes, but is not limited
+to, technical, financial, or marketing requirements, unless an
+alternative communication channel is sanctioned and available.
+
+Policy
+------
+
+The LOPSA Professional Content Committee (PCC) is a short term
+working committee established for the expressed purpose of laying
+the groundwork upon which future efforts to further the professional
+nature of system administration work can be built.  The Board of
+Directors will appoint a current LOPSA member in good standing to
+serve as Chair, and if that individual is not a member of the LOPSA
+Board, a liaison to the committee will also be selected from among
+the Board members.
+
+A definitive timeline for the work of this committee is laid out
+in the charter, and the committee will be dissolved following the
+completion of its work.
+
+For the initial instance of the PCC, the goal will be to determine
+an acceptable definition for the term "profession", as it pertains
+to system administration, which will be adopted by LOPSA when
+evaluating its efforts to further the art and science of system
+administration. This common language will allow LOPSA to go forward
+with a clear understanding of its bailiwick and with the goal the
+future instances of this committee can utilize this work and expand
+upon it.
