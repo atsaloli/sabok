@@ -22,4 +22,4 @@ http://sabok.org/associations.html[Professional Associations]
 
 http://sabok.org/maturing.html[Additional Web Resources related to Maturing Systems Administration]
 
-This web site was brought to you by the mailto:feedback@sabok.org[SABOK 2014 team].  https://github.com/atsaloli/sabok/tree/gh-pages[Source]
+This web site was brought to you by the mailto:feedback@sabok.org[SABOK 2014 team] and the http://sabok.org/charter.txt[LOPSA Zeroth Working Committee on Professionalization].  https://github.com/atsaloli/sabok/tree/gh-pages[Source]
