@@ -4,3 +4,5 @@
 * http://www.opsschool.org[Ops School]
 * http://http://www.reddit.com/r/sysadmin/wiki/index[Reddit /r/sysadmin Wiki]
 * https://groups.google.com/forum/#!forum/ops-education[ops-education Google Group]
+* https://db.tt/34KWAz1P[LISA 2013 Professionalization BOF Materials]
+
