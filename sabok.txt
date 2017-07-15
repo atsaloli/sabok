@@ -59,13 +59,19 @@ http://markburgess.org/principlebook.html#errata[Errata]
 
 This is a introductory college text, written by the creator of a well-known configuration management tool (CFEngine) while he was teaching Systems Administration at Oslo University College in Norway.
 
-| image:http://www.pearson.ch/bild.aspx?id=9780321492661.jpg[height=150,width=125,link="http://everythingsysadmin.com/aboutbook.html"] | Limoncelli, Thomas A., Christine Hogan, and Strata R. Chalup. _The Practice of System and Network Administration_, 2nd ed.  Harlow: Addison-Wesley, 2007. Print. 
+|  | Limoncelli, Thomas A., Christine Hogan, and Strata R. Chalup. _The Practice of System and Network Administration: Volume 1_, 3rd ed. Addison-Wesley, 2016. Print.
 
-ISBN-13: 978-0-321-49266-1
+ISBN-13:  978-0-321-91916-8
 
-A comprehensive overview of the practice of system administration. Written by system administrators for system administrators.
+A comprehensive overview of the practice of system administration. Written by system administrators for system administrators. (Volume 1 of 2.)
 
-http://everythingsysadmin.com/aboutbook.html
+https://www.amazon.com/Practice-System-Network-Administration-Enterprise/dp/0321919165
+
+|  | Limoncelli, Thomas A., Christine Hogan, and Strata R. Chalup. _The Practice of Cloud System Administration: Volume 2_. Addison-Wesley, 2014. Print.
+
+ISBN-13: 978-0321943187
+
+https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X
 
 |===
 
