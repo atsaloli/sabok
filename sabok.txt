@@ -93,7 +93,7 @@ http://shop.linupfront.com/
 
 http://shop-download.linupfront.de/cc/lxes-en-manual-cc.pdf
 
-| image:http://nostarch.com/sites/default/files/imagecache/product_main_page/linuxcommandline.png[height=150,width=125,link="http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download"] | Shotts, William. _The Linux Command Line: A Complete Introduction_ First Edition. San Francisco: No Starch, 2012. Print.
+| image:https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/linuxcommandline.png[height=150,width=125,link="http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download"] | Shotts, William. _The Linux Command Line: A Complete Introduction_ First Edition. San Francisco: No Starch, 2012. Print.
 
 http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download
 
