@@ -5,9 +5,9 @@ Describe system administation, the boundaries of the field of system administati
 
 == Acknowledgements
 
-Thank you for contributing!
+Thanks for help in compiling this section to:
 
-leam hall
+* Leam Hall
 
 == Feedback
 
