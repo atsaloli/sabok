@@ -111,6 +111,8 @@ A complete introduction to the Linux Command Line.  We have started to recommend
 
 "This is a comprehensive guide to the care and feeding of UNIX and Linux systems. The authors present the facts along with seasoned advice and real-world examples." -- Pat Parseghian
 
+Fifth edition coming August 2017: https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
+
 | image:http://akamaicovers.oreilly.com/images/9780596003432/cat.gif[height=150,width=125,link="http://oreilly.com/catalog/9780596003432"] | Frisch, &AElig;leen. _Essential System Administration_, 3rd ed. Sebastopol, CA: O'Reilly, 2002. Print.
 
 | image:http://www.freebsdmall.com/images/bp/bsdhandbk3.2.gif[height=150,width=125,link="http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html"] | The FreeBSD Documentation Project, http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html[_The FreeBSD Handbook_] Online: 2013.
