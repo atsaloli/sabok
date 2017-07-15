@@ -3,6 +3,7 @@
 == Intended audience
 
 * Anyone who wants to be a http://sabok.org/field.html[System Administrator],
+* [Novice System Administrators](http://verticalsysadmin.com/blog/training-program-to-make-a-novice-system-administrator/) just getting into the field,
 * Junior System Administrators who want to make sure their foundation is solid for advancement to more senior levels,
 * Intermediate/Advanced/Senior System Administrators advancing to more senior levels,
 * Trainers and Educators of Systems Administration
