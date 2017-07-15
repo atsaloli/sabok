@@ -107,7 +107,7 @@ A complete introduction to the Linux Command Line.  We have started to recommend
 
 [cols="2*", frame="none", grid="none"]
 |===
-| image:evi.jpg[height=150,width=125,link="http://www.admin.com"] | Nemeth, Evi et al. _Unix and Linux System Administration Handbook_, 4th ed. Upper Saddle River, NJ: Prentice Hall, 2012. Print.
+| | Nemeth, Evi et al. _Unix and Linux System Administration Handbook_, 4th ed. Upper Saddle River, NJ: Prentice Hall, 2012. Print.
 
 "This is a comprehensive guide to the care and feeding of UNIX and Linux systems. The authors present the facts along with seasoned advice and real-world examples." -- Pat Parseghian
 
