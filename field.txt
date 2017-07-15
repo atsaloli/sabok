@@ -26,7 +26,7 @@ https://groups.google.com/forum/#!forum/ops-education[ops-education].
 
 * http://www.sysadminday.com/[Description of some typical sysadmin duties from SysAdminDay.com]
 
-* http://www.taos.com/Newsletter/Mar%2011/Taos-Duality_final.pdf[Nicole F. Velasquez describes how a sysadmin interfaces between business and tech worlds]
+* http://www.taos.com/Newsletter/Mar%2011/Taos-Duality_final.pdf[Nicole Forsgren describes how a sysadmin interfaces between business and tech worlds]
 
 == Adjacent/overlapping fields
 
