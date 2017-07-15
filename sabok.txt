@@ -28,7 +28,7 @@ Jonah Sinowitz, Eric Sorenson, Mark Burgess, Shahab Shawn Sheikhzadeh, Willard D
 
 == Feedback
 
-Comments welcome! Email the editors at feedback@sabok.org or join us in the Ops-Education Google Group.
+Comments welcome! Email the editors at feedback@sabok.org or join us in the [ops-education](https://groups.google.com/forum/#!forum/ops-education) group.
 
 
 == How to use this guide
