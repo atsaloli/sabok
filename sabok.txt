@@ -93,11 +93,11 @@ http://shop.linupfront.com/
 
 http://shop-download.linupfront.de/cc/lxes-en-manual-cc.pdf
 
-| image:https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/linuxcommandline.png[height=150,width=125,link="http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download"] | Shotts, William. _The Linux Command Line: A Complete Introduction_ First Edition. San Francisco: No Starch, 2012. Print.
+| image:https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/linuxcommandline.png[height=150,width=125,link="http://sourceforge.net/projects/linuxcommand/files/TLCL/16.07/TLCL-16.07.pdf/download"] | Shotts, William. _The Linux Command Line: A Complete Introduction_ First Edition. San Francisco: No Starch, 2012. Print. (Electronic version, 2016.)
 
-http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download
+https://sourceforge.net/projects/linuxcommand/files/TLCL/16.07/TLCL-16.07.pdf/download
 
-Shotts, William. _The Linux Command Line: A Complete Introduction_ Second Edition, 2013.  http://linuxcommand.org
+Shotts, William. _The Linux Command Line: A Complete Introduction_ Second Edition, 2016.  http://linuxcommand.org
 
 A complete introduction to the Linux Command Line.  We have started to recommend this book instead of the dated "The UNIX Programming Environment". Available in PDF and print versions.
 |===
