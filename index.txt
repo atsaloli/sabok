@@ -23,4 +23,4 @@ http://sabok.org/associations.html[Professional Associations]
 http://sabok.org/maturing.html[Additional Web Resources related to Maturing Systems Administration]
 
 
-This web site was originally created by the http://sabok.org/charter.txt[LOPSA Professional Content Committee].  https://github.com/atsaloli/sabok/tree/gh-pages[Source].
+This web site was created by the http://sabok.org/charter.txt[LOPSA Professional Content Committee] in 2013 and is kept online by http://www.tsalolikhin.com[Aleksey Tsalolikhin].  https://github.com/atsaloli/sabok/[Source].
