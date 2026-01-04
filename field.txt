@@ -11,8 +11,7 @@ Thanks for help in compiling this section to:
 
 == Feedback
 
-Comments welcome! Email the editors at feedback@sabok.org or join us in
-https://groups.google.com/forum/#!forum/ops-education[ops-education].
+Comments welcome! Join us in https://groups.google.com/forum/#!forum/ops-education[ops-education].
 
 
 
