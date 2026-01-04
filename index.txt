@@ -10,9 +10,9 @@ https://www.usenix.org/lisa/system-administrators-code-ethics[Code of Ethics]
 
 http://sabok.org/sabok.html[Reading List (including Best Practices)]
 
-https://sites.google.com/site/educatingsystemsfolks/home/techconferences[Conferences]
+Conferences (dead link)
 
-https://sites.google.com/site/educatingsystemsfolks/home/university-programs[Academic Degree Programs]
+Academic Degree Programs (dead link)
 
 http://sabok.org/cert.html[Industry Certificate Programs]
 
