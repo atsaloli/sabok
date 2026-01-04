@@ -1,6 +1,6 @@
 # Introducing the Guide to Sysadmin Body of Knowledge (SABOK)
 
-[Originally published on [SysAdvent Calendar](http://sysadvent.blogspot.com), 2 Dec 2013.]
+[Originally published on [SysAdvent Calendar](https://sysadvent.blogspot.com/2013/12/day-2-introducing-guide-to-sysadmin.html), 2 Dec 2013.]
 
 PURPOSE: Protect and support a humanity increasingly dependent on
 computers by creating a Body of Knowledge for professional and
