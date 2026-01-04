@@ -1,0 +1,29 @@
+name: Build Documentation
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y asciidoc fop pandoc
+
+      - name: Build documentation
+        run: |
+          a2x -v -a toc-placement=manual -a toc2 -a theme=volnitsky -f xhtml --fop -d article index.txt
+          a2x -v -a toc-placement=manual -a toc2 -a theme=volnitsky -f xhtml --fop -d article sabok.txt
+          a2x -v -a toc-placement=manual -a toc2 -a theme=volnitsky -f xhtml --fop -d article field.txt
+          a2x -v -a toc-placement=manual -a toc2 -a theme=volnitsky -f xhtml --fop -d article cert.txt
+          a2x -v -a toc-placement=manual -a toc2 -a theme=volnitsky -f xhtml --fop -d article maturing.txt
+          a2x -v -a toc-placement=manual -a toc2 -a theme=volnitsky -f xhtml --fop -d article associations.txt
+          a2x -v -a toc-placement=manual -a toc2 -a theme=volnitsky -f xhtml --fop -d article ontology.txt
+          pandoc -o intro.html intro.md
