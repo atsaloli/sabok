@@ -182,16 +182,10 @@ An important related effort is [Ops School](http://www.opsschool.org). In June 2
 
 ## How to contribute
 
-Feedback and contributions are most welcome. Feel free to comment here,
-email [feedback@sabok.org](mailto:feedback@sabok.org) or send a [pull
-request](https://github.com/atsaloli/sabok/tree/gh-pages).
+Feedback and contributions [are welcome](https://github.com/atsaloli/sabok/).
 
 ## Links
 
-1. [Notes from LISA 2012 "Ops Education" workshop](https://sites.google.com/site/educatingsystemsfolks)
+1. [Notes from the USENIX LISA 2010 Knowledge Management Workshop](http://markburgess.org/blog_km.html)
 
-2. [Notes from the USENIX LISA 2010 Knowledge Management Workshop](http://markburgess.org/blog_km.html)
-
-3. [Ops School](http://www.opsschool.org) - In June 2012, Avleen Vig et al. started this project to create complete curriculum materials for training Ops Engineers.
-
-4. [League of Professional System Administrators](http://www.lopsa.org) - professional association for system administrators
+2. [Ops School](http://www.opsschool.org) - In June 2012, Avleen Vig et al. started this project to create complete curriculum materials for training Ops Engineers.
